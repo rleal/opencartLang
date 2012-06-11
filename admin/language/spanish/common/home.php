@@ -3,42 +3,42 @@
 $_['heading_title']                 = 'Dashboard';
 
 // Text
-$_['text_overview']                 = 'Overview';
-$_['text_statistics']               = 'Statistics';
-$_['text_latest_10_orders']         = 'Latest 10 Orders';
-$_['text_total_sale']               = 'Total Sales:';
-$_['text_total_sale_year']          = 'Total Sales This Year:';
-$_['text_total_order']              = 'Total Orders:';
-$_['text_total_customer']           = 'No. of Customers:';
-$_['text_total_customer_approval']  = 'Customers Awaiting Approval:';
-$_['text_total_review_approval']    = 'Reviews Awaiting Approval:';
-$_['text_total_affiliate']          = 'No. of Affiliates:';
-$_['text_total_affiliate_approval'] = 'Affiliates Awaiting Approval:';
-$_['text_day']                      = 'Today';
-$_['text_week']                     = 'This Week';
-$_['text_month']                    = 'This Month';
-$_['text_year']                     = 'This Year';
-$_['text_order']                    = 'Total Orders';
-$_['text_customer']                 = 'Total Customers';
+$_['text_overview']                 = 'General';
+$_['text_statistics']               = 'Estadísticas';
+$_['text_latest_10_orders']         = 'Últimos 10 pedidos';
+$_['text_total_sale']               = 'Ventas totales:';
+$_['text_total_sale_year']          = 'Ventas totales este año:';
+$_['text_total_order']              = 'Pedidos totales:';
+$_['text_total_customer']           = 'No. de clientes:';
+$_['text_total_customer_approval']  = 'Clientes esperando aprobación:';
+$_['text_total_review_approval']    = 'Comentarios esperando aprobación:';
+$_['text_total_affiliate']          = 'No. de afiliados:';
+$_['text_total_affiliate_approval'] = 'Afiliados esperando aprobación:';
+$_['text_day']                      = 'Hoy';
+$_['text_week']                     = 'Esta semana';
+$_['text_month']                    = 'Este mes';
+$_['text_year']                     = 'Este año';
+$_['text_order']                    = 'Pedidos totales';
+$_['text_customer']                 = 'Clientes totales';
 
 // Column 
-$_['column_order']                  = 'Order ID';
-$_['column_customer']               = 'Customer';
-$_['column_status']                 = 'Status';
-$_['column_date_added']             = 'Date Added';
+$_['column_order']                  = 'ID pedido';
+$_['column_customer']               = 'Cliente';
+$_['column_status']                 = 'Estado';
+$_['column_date_added']             = 'Fecha creación';
 $_['column_total']                  = 'Total';
-$_['column_firstname']              = 'First Name';
-$_['column_lastname']               = 'Last Name';
-$_['column_action']                 = 'Action';
+$_['column_firstname']              = 'Nombre';
+$_['column_lastname']               = 'Apellidos';
+$_['column_action']                 = 'Acción';
 
 // Entry
-$_['entry_range']                   = 'Select Range:';
+$_['entry_range']                   = 'Selecciona rango:';
 
 // Error
-$_['error_install']                 = 'Warning: Install folder still exists and should be deleted for security reasons!';
-$_['error_image']                   = 'Warning: Image directory %s not writeable!';
-$_['error_image_cache']             = 'Warning: Image cache directory %s not writeable!';
-$_['error_cache']                   = 'Warning: Cache directory %s not writeable!';
-$_['error_download']                = 'Warning: Download directory %s not writeable!';
-$_['error_logs']                    = 'Warning: Log directory %s not writeable!';
+$_['error_install']                 = 'Atención: La carpeta install todavía existe y debería ser borrada por cuestiones de seguridad';
+$_['error_image']                   = 'Atención: El directorio de imágenes %s no permite escritura';
+$_['error_image_cache']             = 'Atención: El directorio de caché de imágenes %s no permite escritura';
+$_['error_cache']                   = 'Atención: El directorio de caché %s no permite escritura';
+$_['error_download']                = 'Atención: El directorio de descargas %s no permite escritura';
+$_['error_logs']                    = 'Atención: El directorio de logs %s no permite escritura';
 ?>
