@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Product Feeds';
+$_['heading_title']    = 'Fuentes de productos';
 
 // Text
-$_['text_install']     = 'Install';
-$_['text_uninstall']   = 'Uninstall';
+$_['text_install']     = 'Instalar';
+$_['text_uninstall']   = 'Desinstalar';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nombre fuente de productos';
+$_['column_status']    = 'Estado';
+$_['column_action']    = 'Acción';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['error_permission'] = 'Atención: no tienes permisos para modificar las fuentes';
 ?>
