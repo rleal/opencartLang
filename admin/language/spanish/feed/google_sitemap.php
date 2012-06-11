@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Google Sitemap';
 
 // Text 
-$_['text_feed']        = 'Product Feeds';
-$_['text_success']     = 'Success: You have modified Google Sitemap feed!';
+$_['text_feed']        = 'Fuentes de producto';
+$_['text_success']     = 'Modificada la fuente de Google Sitemap con éxito';
 
 // Entry
-$_['entry_status']     = 'Status:';
-$_['entry_data_feed']  = 'Data Feed Url:';
+$_['entry_status']     = 'Estado:';
+$_['entry_data_feed']  = 'Url de fuente de datos:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Sitemap feed!';
+$_['error_permission'] = 'Atención: no tienes permisos para modificar la fuente de Google Sitemap';
 ?>
