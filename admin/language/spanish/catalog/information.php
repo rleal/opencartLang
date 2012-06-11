@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']     = 'Information';
+$_['heading_title']     = 'Información';
 
 // Text
-$_['text_success']      = 'Success: You have modified information!';
-$_['text_default']      = 'Default';
+$_['text_success']      = 'Información modificada con éxito';
+$_['text_default']      = 'Por defecto';
 
 // Column
-$_['column_title']      = 'Information Title';
-$_['column_sort_order']	= 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Título de información';
+$_['column_sort_order']	= 'Orden';
+$_['column_action']     = 'Acción';
 
 // Entry
-$_['entry_title']       = 'Information Title:';
-$_['entry_description'] = 'Description:';
-$_['entry_store']       = 'Stores:';
-$_['entry_keyword']     = 'SEO Keyword:<br /><span class="help">Do not use spaces instead replace spaces with - and make sure the keyword is globally unique.</span>';
-$_['entry_bottom']      = 'Bottom:<br/><span class="help">Display in the bottom footer.</span>';
-$_['entry_status']      = 'Status:';
-$_['entry_sort_order']  = 'Sort Order:';
-$_['entry_layout']      = 'Layout Override:';
+$_['entry_title']       = 'Título de información:';
+$_['entry_description'] = 'Descripción:';
+$_['entry_store']       = 'Tiendas:';
+$_['entry_keyword']     = 'Palabra clave SEO:<br /><span class="help">Usa el carácter - en vez de espacios en blanco y asegúrate que es una palabra clave única.</span>';
+$_['entry_bottom']      = 'Abajo:<br/><span class="help">Mostrar en el pie de página</span>';
+$_['entry_status']      = 'Estado:';
+$_['entry_sort_order']  = 'Orden:';
+$_['entry_layout']      = 'Sobreescribir diseño:';
 
 // Error 
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'Warning: You do not have permission to modify information!';
-$_['error_title']       = 'Information Title must be between 3 and 64 characters!';
-$_['error_description'] = 'Description must be more than 3 characters!';
-$_['error_account']     = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']    = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']   = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_store']       = 'Warning: This information page cannot be deleted as its currently used by %s stores!';
+$_['error_warning']     = 'Atención: Revisa los errores el formulario';
+$_['error_permission']  = 'Atención: No tienes permisos para modificar la información';
+$_['error_title']       = 'El título de la información debe tener entre 3 y 64 carácteres';
+$_['error_description'] = 'La descripción debe tener más de 3 carácteres';
+$_['error_account']     = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de la cuenta de la tienda';
+$_['error_checkout']    = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de pedido';
+$_['error_affiliate']   = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de afiliación de la tienda';
+$_['error_store']       = 'Atención: Esta página de información no puede ser eliminada porque actualmente es usada por %s tiendas';
 ?>

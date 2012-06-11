@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']      = 'Manufacturer';
+$_['heading_title']      = 'Fabricantes';
 
 // Text
-$_['text_success']       = 'Success: You have modified manufacturers!';
-$_['text_default']       = 'Default';
-$_['text_image_manager'] = 'Image Manager';
-$_['text_browse']        = 'Browse Files';
-$_['text_clear']         = 'Clear Image';
-$_['text_percent']       = 'Percentage';
-$_['text_amount']        = 'Fixed Amount';
+$_['text_success']       = 'Fabricantes modificados con éxito';
+$_['text_default']       = 'Por defecto';
+$_['text_image_manager'] = 'Gestor de imágenes';
+$_['text_browse']        = 'Buscar ficheros';
+$_['text_clear']         = 'Eliminar imagen';
+$_['text_percent']       = 'Porcentaje';
+$_['text_amount']        = 'Cantidad fija';
 
 // Column
-$_['column_name']        = 'Manufacturer Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Nombre de fabricante';
+$_['column_sort_order']  = 'Orden';
+$_['column_action']      = 'Acción';
 
 // Entry
-$_['entry_name']         = 'Manufacturer Name:';
-$_['entry_store']        = 'Stores:';
-$_['entry_keyword']      = 'SEO Keyword:<br /><span class="help">Do not use spaces instead replace spaces with - and make sure the keyword is globally unique.</span>';
-$_['entry_image']        = 'Image:';
-$_['entry_sort_order']   = 'Sort Order:';
-$_['entry_type']         = 'Type:';
+$_['entry_name']         = 'Nombre de fabricante:';
+$_['entry_store']        = 'Tiendas:';
+$_['entry_keyword']      = 'Palabra clave SEO:<br /><span class="help">Usa el carácter - en vez de espacios en blanco y asegúrate que es una palabra clave única.</span>';
+$_['entry_image']        = 'Imagen:';
+$_['entry_sort_order']   = 'Orden:';
+$_['entry_type']         = 'Tipo:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify manufacturers!';
-$_['error_name']         = 'Manufacturer Name must be between 3 and 64 characters!';
-$_['error_product']      = 'Warning: This manufacturer cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']   = 'Atención: No tienes permisos para modificar los fabricantes';
+$_['error_name']         = 'El nombre de fabricante debe tener entre 3 y 64 carácteres';
+$_['error_product']      = 'Atención: Este fabricante no puede ser eliminado por que está asignado a %s productos';
 ?>

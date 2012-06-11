@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Attribute Groups';
+$_['heading_title']     = 'Grupos de atributo';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
+$_['text_success']      = 'Grupo de atributos modificado con éxito';
 
 // Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nombre del grupo de atributos';
+$_['column_sort_order'] = 'Orden';
+$_['column_action']     = 'Acción';
 
 // Entry
-$_['entry_name']        = 'Attribute Group Name:';
-$_['entry_sort_order']  = 'Sort Order:';
+$_['entry_name']        = 'Nombre del grupo de atributos:';
+$_['entry_sort_order']  = 'Orden:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 3 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Atención: No tienes permisos para modificar el grupo de atributos';
+$_['error_name']        = 'El nombre del grupo de atributos debe tener entre 3 y 64 carácteres';
+$_['error_attribute']   = 'Atención: El grupo del atributos no puede ser borrado porque actualmente está asignado a %s atributos';
+$_['error_product']     = 'Atención: Este grupo de atributos no puede ser borrado porque actualmente está asignado a %s productos';
 ?>
