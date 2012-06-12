@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Class';
+$_['heading_title']     = 'Tipo de tasa';
 
 // Text
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
-$_['text_store']        = 'Store Address';
-$_['text_success']      = 'Success: You have modified tax classes!';
+$_['text_shipping']     = 'Dirección de envio';
+$_['text_payment']      = 'Dirección de facturación';
+$_['text_store']        = 'Dirección de la tienda';
+$_['text_success']      = 'Success: You have modified Tipo de tasaes!';
 
 // Column
-$_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Nombre de tipo de tasa';
+$_['column_action']     = 'Acción';
 
 // Entry
-$_['entry_title']       = 'Tax Class Title:';
-$_['entry_description'] = 'Description:';
-$_['entry_rate']        = 'Tax Rate:';
-$_['entry_based']       = 'Based On:';
-$_['entry_geo_zone']    = 'Geo Zone:';
-$_['entry_priority']    = 'Priority:';
+$_['entry_title']       = 'Nombre de tipo de tasa:';
+$_['entry_description'] = 'Descripción';
+$_['entry_rate']        = 'Tasa impositiva:';
+$_['entry_based']       = 'Basada en:';
+$_['entry_geo_zone']    = 'Geo Zona:';
+$_['entry_priority']    = 'Prioridad:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
-$_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
-$_['error_description'] = 'Description must be between 3 and 255 characters!';
-$_['error_product']     = 'Warning: This tax class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Atención: no tienes permisos para modificar el tipo de tasas';
+$_['error_title']       = 'El nombre de tipos de tasa debe tener entre 3 y 32 carácteres';
+$_['error_description'] = 'La descripción debe tener entre 3 y 255 carácteres';
+$_['error_product']     = 'Atención: Este tipo de tasa no puede borrarse porque está aplicada a %s productos';
 ?>

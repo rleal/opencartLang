@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Action';
+$_['heading_title']    = 'Acciones de Devolución';
 
 // Text
-$_['text_success']     = 'Success: You have modified return actions!';
+$_['text_success']     = 'Acciones de devolución modificadas';
 
 // Column
-$_['column_name']      = 'Return Action Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nombre de acción de devolución';
+$_['column_action']    = 'Acción';
 
 // Entry
-$_['entry_name']       = 'Return Action Name:';
+$_['entry_name']       = 'Nombre de acción de devolución:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return actions!';
-$_['error_name']       = 'Return Action Name must be between 3 and 32 characters!';
-$_['error_return']     = 'Warning: This return action cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar las acciones devolución';
+$_['error_name']       = 'El nombre de acción de devolución debe tener entre 3 y 32 carácteres';
+$_['error_return']     = 'Atención: La acción de devolución no puede borrarse porque está asignada a %s productos devueltos';
 ?>

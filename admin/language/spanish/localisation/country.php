@@ -1,41 +1,41 @@
 <?php
 // Heading
-$_['heading_title']           = 'Country';
+$_['heading_title']           = 'País';
 
 // Text
-$_['text_success']            = 'Success: You have modified countries!';
+$_['text_success']            = 'Países' ;
 
 // Column
-$_['column_name']             = 'Country Name';
-$_['column_iso_code_2']       = 'ISO Code (2)';
-$_['column_iso_code_3']       = 'ISO Code (3)';
-$_['column_action']           = 'Action';
+$_['column_name']             = 'Nombre de país';
+$_['column_iso_code_2']       = 'Código ISO (2)';
+$_['column_iso_code_3']       = 'Código ISO (3)';
+$_['column_action']           = 'Acción';
 
 // Entry
-$_['entry_name']              = 'Country Name:';
-$_['entry_iso_code_2']        = 'ISO Code (2):';
-$_['entry_iso_code_3']        = 'ISO Code (3):';
-$_['entry_address_format']    = 'Address Format:<br /><span class="help">
-First Name = {firstname}<br />
-Last Name = {lastname}<br />
-Company = {company}<br />
-Address 1 = {address_1}<br />
-Address 2 = {address_2}<br />
-City = {city}<br />
-Postcode = {postcode}<br />
-Zone = {zone}<br />
-Zone Code = {zone_code}<br />
-Country = {country}</span>';
-$_['entry_postcode_required'] = 'Postcode Required:';
-$_['entry_status']            = 'Status:';
+$_['entry_name']              = 'Nombre de país:';
+$_['entry_iso_code_2']        = 'Código ISO (2):';
+$_['entry_iso_code_3']        = 'Código ISO (3):';
+$_['entry_address_format']    = 'Formato de dirección:<br /><span class="help">
+Nombre = {firstname}<br />
+Apellidos = {lastname}<br />
+Empresa = {company}<br />
+Dirección 1 = {address_1}<br />
+Dirección 2 = {address_2}<br />
+Ciudad = {city}<br />
+Cod. Postal = {postcode}<br />
+Zona = {zone}<br />
+Códiga de zona = {zone_code}<br />
+País = {country}</span>';
+$_['entry_postcode_required'] = 'Cod. Postal Obligatorio:';
+$_['entry_status']            = 'Estado:';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify countries!';
-$_['error_name']              = 'Country Name must be between 3 and 128 characters!';
-$_['error_default']           = 'Warning: This country cannot be deleted as it is currently assigned as the default store country!';
-$_['error_store']             = 'Warning: This country cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']           = 'Warning: This country cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']         = 'Warning: This country cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone']              = 'Warning: This country cannot be deleted as it is currently assigned to %s zones!';
-$_['error_zone_to_geo_zone']  = 'Warning: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']        = 'Atención: No tienes permisos para modificar países';
+$_['error_name']              = 'El nombre de país debe tener entre 3 y 128 carácteres';
+$_['error_default']           = 'Atención: Este país no puede ser borrado porque está asignado como país a la tienda por defecto';
+$_['error_store']             = 'Atención: Este país no puede ser borrado porque está asignado a %s tiendas';
+$_['error_address']           = 'Atención: Este país no puede ser borrado porque está asignado a %s entradas de la libreta de direcciones';
+$_['error_affiliate']         = 'Atención: Este país no puede ser borrado porque está asignado a %s afiliados';
+$_['error_zone']              = 'Atención: Este país no puede ser borrado porque está asignado a %s zonas';
+$_['error_zone_to_geo_zone']  = 'Atención: Este país no puede ser borrado porque está asignado a %s zonas a geo zonas ';
 ?>

@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Status';
+$_['heading_title']    = 'Estado de devolución';
 
 // Text
-$_['text_success']     = 'Success: You have modified return statuses!';
+$_['text_success']     = 'Estados de devolución modificados';
 
 // Column
-$_['column_name']      = 'Return Status Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nombre de estado de devolución';
+$_['column_action']    = 'Acción';
 
 // Entry
-$_['entry_name']       = 'Return Status Name:';
+$_['entry_name']       = 'Nombre de estado de devolución:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return statues!';
-$_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This return status cannot be deleted as it is currently assigned as the default return status!';
-$_['error_return']     = 'Warning: This return status cannot be deleted as it is currently assigned to %s returns!';
+$_['error_permission'] = 'Atención: No tienes permisos para modiciar los estados de devolución';
+$_['error_name']       = 'El nombre de estado de devolución debe tener entre 3 y 32 carácteres';
+$_['error_default']    = 'Atención: El estado de devolución no puede borrarse porque es el estado de devolución por defecto';
+$_['error_return']     = 'Atención: El estado de devolución no puede borrarse porque está asignado a %s devoluciones';
 ?>

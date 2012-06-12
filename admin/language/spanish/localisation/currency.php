@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currency';  
+$_['heading_title']        = 'Moneda';  
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
+$_['text_success']         = 'Monedas modificadas con éxito';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code'; 
-$_['column_value']         = 'Value';
-$_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_title']         = 'Nombre de moneda';
+$_['column_code']          = 'Código'; 
+$_['column_value']         = 'Valor';
+$_['column_date_modified'] = 'Última actualización';
+$_['column_action']        = 'Acción';
 
 // Entry
-$_['entry_title']          = 'Currency Title:';
-$_['entry_code']           = 'Code:<br /><span class="help">Do not change if this is your default currency. Must be valid <a href="http://www.xe.com/iso4217.php" target="_blank">ISO code</a>.</span>';
-$_['entry_value']          = 'Value:<br /><span class="help">Set to 1.00000 if this is your default currency.</span>';
-$_['entry_symbol_left']    = 'Symbol Left:';
-$_['entry_symbol_right']   = 'Symbol Right:';
-$_['entry_decimal_place']  = 'Decimal Places:';
-$_['entry_status']         = 'Status:';
+$_['entry_title']          = 'Nombre de moneda:';
+$_['entry_code']           = 'Código:<br /><span class="help">No cambiar si es tu moneda por defecto. Debe ser un <a href="http://www.xe.com/iso4217.php" target="_blank">código ISO</a> válido.</span>';
+$_['entry_value']          = 'Valor:<br /><span class="help">Poner a 1.00000 si es tu moneda por defecto.</span>';
+$_['entry_symbol_left']    = 'Símbolo a la izquierda:';
+$_['entry_symbol_right']   = 'Símbolo a la derecha:';
+$_['entry_decimal_place']  = 'Decimales:';
+$_['entry_status']         = 'Estado:';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify currencies!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']     = 'Atención: No tienes permisos para modificar las monedas';
+$_['error_title']          = 'El título de moneda debe tener entre 3 y 32 carácteres';
+$_['error_code']           = 'El código de moneda debe tener 3 carácteres';
+$_['error_default']        = 'Atención: Esta moneda no puede ser borrada porque esta asignada como la moneda por defecto de la tienda';
+$_['error_store']          = 'Atención: Esta moneda no puede ser borrada porque está asignada a %s tiendas';
+$_['error_order']          = 'Atención: Esta moneda no puede ser borrada porque está asignada a %s pedidos';
 ?>
