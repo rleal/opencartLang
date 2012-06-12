@@ -12,13 +12,13 @@ $_['text_stock']                   = 'Stock';
 $_['text_image_manager']           = 'Image Manager';
 $_['text_browse']                  = 'Browse Files';
 $_['text_clear']                   = 'Eliminar Imagen';
-$_['text_shipping']                = 'Shipping Address';
-$_['text_payment']                 = 'Payment Address';
+$_['text_shipping']                = 'Dirección de envio';
+$_['text_payment']                 = 'Dirección de facturación';
 
 // Column
 $_['column_name']                  = 'Store Name';
 $_['column_url']	               = 'Store URL';
-$_['column_action']                = 'Action';
+$_['column_action']                = 'Acción';
 
 // Entry
 $_['entry_url']                    = 'Store URL:<br /><span class="help">Include the full URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.</span>';
@@ -29,7 +29,7 @@ $_['entry_address']                = 'Address:';
 $_['entry_email']                  = 'E-Mail:';
 $_['entry_telephone']              = 'Telephone:';
 $_['entry_fax']                    = 'Fax:';
-$_['entry_title']                  = 'Title:';
+$_['entry_title']                  = 'Título:';
 $_['entry_meta_description']       = 'Meta Tag Description:';
 $_['entry_layout']                 = 'Default Layout:';
 $_['entry_template']               = 'Template:';
@@ -39,8 +39,8 @@ $_['entry_language']               = 'Language:';
 $_['entry_currency']               = 'Currency:';
 $_['entry_catalog_limit'] 	       = 'Default Items Per Page (Catalog):<br /><span class="help">Determines how many catalog items are shown per page (products, categories, etc)</span>';
 $_['entry_tax']                    = 'Display Prices With Tax:';
-$_['entry_tax_default']            = 'Use Store Tax Address:<br /><span class="help">Use the store address to calculate taxes if no one is logged in. You can choose to use the store address for the customers shipping or payment address.</span>';
-$_['entry_tax_customer']           = 'Use Customer Tax Address:<br /><span class="help">Use the customers default address when they login to calculate taxes. You can choose to use the default address for the customers shipping or payment address.</span>';
+$_['entry_tax_default']            = 'Use Store Tax Address:<br /><span class="help">Use the Dirección de la tienda to calculate taxes if no one is logged in. You can choose to use the Dirección de la tienda for the customers shipping or Dirección de facturación.</span>';
+$_['entry_tax_customer']           = 'Use Customer Tax Address:<br /><span class="help">Use the customers default address when they login to calculate taxes. You can choose to use the default address for the customers shipping or Dirección de facturación.</span>';
 $_['entry_customer_group']         = 'Customer Group:<br /><span class="help">Default customer group.</span>';
 $_['entry_customer_group_display'] = 'Customer Groups:<br /><span class="help">Display customer groups that new customers can select to use such as wholesale and business when signing up.</span>';
 $_['entry_customer_price']         = 'Login Display Prices:<br /><span class="help">Only show prices when a customer is logged in.</span>';
@@ -69,7 +69,7 @@ $_['error_warning']                = 'Warning: Please check the form carefully f
 $_['error_permission']             = 'Warning: You do not have permission to modify stores!';
 $_['error_name']                   = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                  = 'Store Owner must be between 3 and 64 characters!';
-$_['error_address']                = 'Store Address must be between 10 and 256 characters!';
+$_['error_address']                = 'Dirección de la tienda must be between 10 and 256 characters!';
 $_['error_email']                  = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']              = 'Telephone must be between 3 and 32 characters!';
 $_['error_url']                    = 'Store URL required!';

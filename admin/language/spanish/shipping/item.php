@@ -8,9 +8,9 @@ $_['text_success']     = 'Success: You have modified shipping per item rates!';
 
 // Entry
 $_['entry_cost']       = 'Cost:';
-$_['entry_tax_class']  = 'Tax Class:';
-$_['entry_geo_zone']   = 'Geo Zone:';
-$_['entry_status']     = 'Status:';
+$_['entry_tax_class']  = 'Tipo de tasa:';
+$_['entry_geo_zone']   = 'Geo zona:';
+$_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Sort Order:';
 
 // Error

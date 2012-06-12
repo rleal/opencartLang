@@ -7,12 +7,12 @@ $_['text_success']              = 'Success: You have modified customer groups!';
 
 // Column
 $_['column_name']               = 'Customer Group Name';
-$_['column_sort_order']         = 'Sort Order';
-$_['column_action']             = 'Action';
+$_['column_sort_order']         = 'Orden de pedido';
+$_['column_action']             = 'Acción';
 
 // Entry
 $_['entry_name']                = 'Customer Group Name:';
-$_['entry_description']         = 'Description:';
+$_['entry_description']         = 'Descripción';
 $_['entry_approval']            = 'Approve New Customers:<br /><span class="help">Customers must be approved by and administrator before they can login.</span>';
 $_['entry_company_id_display']  = 'Display Company No.:<br /><span class="help">Display a company no. field.</span>';
 $_['entry_company_id_required'] = 'Company No. Required:<br /><span class="help">Select which customer groups must enter their company no. for billing addresses before checkout.</span>';

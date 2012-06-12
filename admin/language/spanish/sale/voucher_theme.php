@@ -10,12 +10,12 @@ $_['text_clear']         = 'Eliminar Imagen';
 
 // Column
 $_['column_name']        = 'Voucher Theme Name';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Acción';
 
 // Entry
 $_['entry_name']         = 'Voucher Theme Name:';
 $_['entry_description']  = 'Voucher Theme Description:';
-$_['entry_image']        = 'Image:';
+$_['entry_image']        = 'Imagen:';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify voucher themes!';

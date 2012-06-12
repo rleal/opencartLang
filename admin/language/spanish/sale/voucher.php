@@ -10,16 +10,16 @@ $_['text_wait']         = 'Please Wait!';
 
 // Column
 $_['column_name']       = 'Voucher Name';
-$_['column_code']       = 'Code';
+$_['column_code']       = 'Código';
 $_['column_from']       = 'From';
 $_['column_to']         = 'To';
 $_['column_theme']      = 'Theme';
 $_['column_amount']     = 'Amount';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Estado';
 $_['column_order_id']   = 'Order ID';
 $_['column_customer']   = 'Customer';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Fecha creación';
+$_['column_action']     = 'Acción';
 
 // Entry
 $_['entry_code']        = 'Code:<br /><span class="help">The code the customer enters to activate the voucher.</span>';
@@ -30,7 +30,7 @@ $_['entry_to_email']    = 'To E-Mail:';
 $_['entry_theme']       = 'Theme:';
 $_['entry_message']     = 'Message:';
 $_['entry_amount']      = 'Amount:';
-$_['entry_status']      = 'Status:';
+$_['entry_status']      = 'Estado:';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify vouchers!';

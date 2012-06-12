@@ -10,7 +10,7 @@ $_['text_invoice_date']                       = 'Invoice Date:';
 $_['text_store_name']                         = 'Store Name:';
 $_['text_store_url']                          = 'Store Url:';
 $_['text_customer']                           = 'Customer:';
-$_['text_customer_group']                     = 'Customer Group:';
+$_['text_customer_group']                     = 'Grupo clientes:';
 $_['text_email']                              = 'E-Mail:';
 $_['text_telephone']                          = 'Telephone:';
 $_['text_fax']                                = 'Fax:';
@@ -105,7 +105,7 @@ $_['text_bin_name']                           = 'Bin Name:<br /><span class="hel
 $_['text_bin_phone_match']                    = 'Bin Phone Match:<br /><span class="help">Whether customer service phone number matches inputed BIN Phone. A return value of Yes provides a positive indication that cardholder is in possession of credit card.</span>';
 $_['text_bin_phone']                          = 'Bin Phone:<br /><span class="help">Customer service phone number listed on back of credit card. Available for approximately 75% of BIN numbers. In some cases phone number returned may be outdated.</span>';
 $_['text_customer_phone_in_billing_location'] = 'Customer Phone Number in Billing Location:<br /><span class="help">Whether the customer phone number is in the billing zip code. A return value of Yes provides a positive indication that the phone number listed belongs to the cardholder. A return value of No indicates that the phone number may be in a different area, or may not be listed in our database. NotFound is returned when the phone number prefix cannot be found in our database at all. Currently we only support US Phone numbers.</span>';
-$_['text_ship_forward']                       = 'Shipping Forward:<br /><span class="help">Whether shipping address is in database of known mail drops.</span>';
+$_['text_ship_forward']                       = 'Shipping Forward:<br /><span class="help">Whether Dirección de envio is in database of known mail drops.</span>';
 $_['text_city_postal_match']                  = 'City Postal Match:<br /><span class="help">Whether billing city and state match zipcode. Currently available for US addresses only, returns empty string outside the US.</span>';
 $_['text_ship_city_postal_match']             = 'Shipping City Postal Match:<br /><span class="help">Whether shipping city and state match zipcode. Currently available for US addresses only, returns empty string outside the US.</span>';
 $_['text_score']                              = 'Score:<br /><span class="help">Overall fraud score based on outputs listed above. This is the original fraud score, and is based on a simple formula. It has been replaced with risk score (see below), but is kept for backwards compatibility.</span>';
@@ -118,9 +118,9 @@ $_['text_error']                              = 'Error:<br /><span class="help">
 // Column
 $_['column_order_id']                         = 'Order ID';
 $_['column_customer']                         = 'Customer';
-$_['column_status']                           = 'Status';
-$_['column_date_added']                       = 'Date Added';
-$_['column_date_modified']                    = 'Date Modified';
+$_['column_status']                           = 'Estado';
+$_['column_date_added']                       = 'Fecha creación';
+$_['column_date_modified']                    = 'Fecha modificación';
 $_['column_total']                            = 'Total';
 $_['column_product']                          = 'Product';
 $_['column_model']                            = 'Model';
@@ -131,12 +131,12 @@ $_['column_filename']                         = 'Filename';
 $_['column_remaining']                        = 'Remaining Downloads';
 $_['column_comment']                          = 'Comment';
 $_['column_notify']                           = 'Customer Notified';
-$_['column_action']                           = 'Action';
+$_['column_action']                           = 'Acción';
 
 // Entry
 $_['entry_store']                             = 'Store:';
 $_['entry_customer']                          = 'Customer:';
-$_['entry_customer_group']                    = 'Customer Group:';
+$_['entry_customer_group']                    = 'Grupo clientes:';
 $_['entry_firstname']                         = 'First Name:';
 $_['entry_lastname']                          = 'Last Name:';
 $_['entry_email']                             = 'E-Mail:';

@@ -7,7 +7,7 @@ $_['text_success']      = 'Success: You have modified user groups!';
 
 // Column
 $_['column_name']       = 'User Group Name';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Acción';
 
 // Entry
 $_['entry_name']        = 'User Group Name:';

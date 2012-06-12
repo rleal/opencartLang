@@ -3,7 +3,7 @@
 $_['heading_title']		      = 'Moneybookers';
 
 // Text 					
-$_['text_payment']		      = 'Payment';
+$_['text_payment']		      = 'Pago';
 $_['text_success']		      = 'Success: You have modified the Moneybookers details.';
 $_['text_moneybookers']	      = '<a onclick="window.open(\'https://www.moneybookers.com/partners/?p=OpenCart\');"><img src="view/image/payment/moneybookers.png" alt="Moneybookers" title="Moneybookers" style="border: 1px solid #EEEEEE;" /></a>';
 	
@@ -16,8 +16,8 @@ $_['entry_pending_status']    = 'Pending Status :';
 $_['entry_canceled_status']   = 'Canceled Status:';
 $_['entry_failed_status']     = 'Failed Status:';
 $_['entry_chargeback_status'] = 'Chargeback Status:';
-$_['entry_geo_zone']          = 'Geo Zone:';
-$_['entry_status']            = 'Status:';
+$_['entry_geo_zone']          = 'Geo zona:';
+$_['entry_status']            = 'Estado:';
 $_['entry_sort_order']        = 'Sort Order:';
 
 // Error					

@@ -9,11 +9,11 @@ $_['text_all_status']       = 'All Statuses';
 $_['column_customer']       = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
+$_['column_status']         = 'Estado';
 $_['column_orders']         = 'No. Orders';
 $_['column_products']       = 'No. Products';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Acción';
 
 // Entry
 $_['entry_date_start']      = 'Date Start:';

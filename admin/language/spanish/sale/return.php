@@ -31,12 +31,12 @@ $_['column_order_id']      = 'Order ID';
 $_['column_customer']      = 'Customer';
 $_['column_product']       = 'Product';
 $_['column_model']         = 'Model';
-$_['column_status']        = 'Status';
-$_['column_date_added']    = 'Date Added';
-$_['column_date_modified'] = 'Date Modified';
+$_['column_status']        = 'Estado';
+$_['column_date_added']    = 'Fecha creación';
+$_['column_date_modified'] = 'Fecha modificación';
 $_['column_comment']       = 'Comment';
 $_['column_notify']        = 'Customer Notified';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Acción';
 
 // Entry
 $_['entry_customer']      = 'Customer:';

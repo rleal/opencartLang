@@ -61,9 +61,9 @@ $_['entry_dimension']       = 'Dimensions (L x W x H):<br/><span class="help">Av
 $_['entry_display_time']    = 'Display Delivery Time:<br /><span class="help">Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)</span>';
 $_['entry_display_weight']  = 'Display Delivery Weight:<br /><span class="help">Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)</span>';
 $_['entry_weight_class']    = 'Weight Class:<br /><span class="help">Must be set to Pound.</span>';
-$_['entry_tax']             = 'Tax Class:';
-$_['entry_geo_zone']        = 'Geo Zone:';
-$_['entry_status']          = 'Status:';
+$_['entry_tax']             = 'Tipo de tasa:';
+$_['entry_geo_zone']        = 'Geo zona:';
+$_['entry_status']          = 'Estado:';
 $_['entry_sort_order']      = 'Sort Order:';
 $_['entry_debug']      		= 'Debug Mode:<br /><span class="help">Saves send/recv data to the system log</span>';
 

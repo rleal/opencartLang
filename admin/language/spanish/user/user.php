@@ -7,9 +7,9 @@ $_['text_success']      = 'Success: You have modified users!';
 
 // Column
 $_['column_username']   = 'Username';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_status']     = 'Estado';
+$_['column_date_added'] = 'Fecha creación';
+$_['column_action']     = 'Acción';
 
 // Entry
 $_['entry_username']   = 'Username:';
@@ -19,7 +19,7 @@ $_['entry_firstname']  = 'First Name:';
 $_['entry_lastname']   = 'Last Name:';
 $_['entry_email']      = 'E-Mail:';
 $_['entry_user_group'] = 'User Group:';
-$_['entry_status']     = 'Status:';
+$_['entry_status']     = 'Estado:';
 $_['entry_captcha']    = 'Enter the code in the box below:';
 
 // Error

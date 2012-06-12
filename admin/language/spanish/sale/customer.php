@@ -15,16 +15,16 @@ $_['text_remove_blacklist'] = 'Remove Blacklist';
 $_['column_name']           = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status'; 
+$_['column_status']         = 'Estado'; 
 $_['column_login']          = 'Login into Store';
 $_['column_approved']       = 'Approved';
-$_['column_date_added']     = 'Date Added';
+$_['column_date_added']     = 'Fecha creación';
 $_['column_description']    = 'Description';
 $_['column_amount']         = 'Amount';
 $_['column_points']         = 'Points';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Total Accounts';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Acción';
 
 // Entry
 $_['entry_firstname']       = 'First Name:';
@@ -33,8 +33,8 @@ $_['entry_email']           = 'E-Mail:';
 $_['entry_telephone']       = 'Telephone:';
 $_['entry_fax']             = 'Fax:';
 $_['entry_newsletter']      = 'Newsletter:';
-$_['entry_customer_group']  = 'Customer Group:';
-$_['entry_status']          = 'Status:';
+$_['entry_customer_group']  = 'Grupo clientes:';
+$_['entry_status']          = 'Estado:';
 $_['entry_password']        = 'Password:';
 $_['entry_confirm']         = 'Confirm:';
 $_['entry_company']         = 'Company:';
@@ -49,7 +49,7 @@ $_['entry_zone']            = 'Region / State:';
 $_['entry_default']         = 'Default Address:';
 $_['entry_amount']          = 'Amount:';
 $_['entry_points']          = 'Points:<br /><span class="help">Use minus to remove points</span>';
-$_['entry_description']     = 'Description:';
+$_['entry_description']     = 'Descripción';
 
 // Error
 $_['error_warning']         = 'Warning: Please check the form carefully for errors!';

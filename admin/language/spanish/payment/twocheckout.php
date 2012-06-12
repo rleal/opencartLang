@@ -3,7 +3,7 @@
 $_['heading_title']      = '2Checkout';
 
 // Text 
-$_['text_payment']       = 'Payment';
+$_['text_payment']       = 'Pago';
 $_['text_success']       = 'Success: You have modified 2Checkout account details!';
 $_['text_twocheckout']	 = '<a onclick="window.open(\'https://www.2checkout.com/2co/affiliate?affiliate=1596408\');"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
 
@@ -13,8 +13,8 @@ $_['entry_secret']       = 'Secret Word:<br /><span class="help">The secret word
 $_['entry_test']         = 'Test Mode:';
 $_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
 $_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
+$_['entry_geo_zone']     = 'Geo zona:';
+$_['entry_status']       = 'Estado:';
 $_['entry_sort_order']   = 'Sort Order:';
 
 // Error

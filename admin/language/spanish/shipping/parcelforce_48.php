@@ -12,9 +12,9 @@ $_['entry_insurance']         = 'Parcelforce48 Compensation Rates:<br /><span cl
 $_['entry_display_weight']    = 'Display Delivery Weight:<br /><span class="help">Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)</span>';
 $_['entry_display_insurance'] = 'Display Insurance:<br /><span class="help">Do you want to display the shipping insurance? (e.g. Insured upto 500)</span>';
 $_['entry_display_time']      = 'Display Delivery Time:<br /><span class="help">Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)</span>';
-$_['entry_tax_class']         = 'Tax Class:';
-$_['entry_geo_zone']          = 'Geo Zone:';
-$_['entry_status']            = 'Status:';
+$_['entry_tax_class']         = 'Tipo de tasa:';
+$_['entry_geo_zone']          = 'Geo zona:';
+$_['entry_status']            = 'Estado:';
 $_['entry_sort_order']        = 'Sort Order:';
 
 // Error

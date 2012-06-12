@@ -9,16 +9,16 @@ $_['text_amount']         = 'Fixed Amount';
 
 // Column
 $_['column_name']         = 'Coupon Name';
-$_['column_code']         = 'Code';
+$_['column_code']         = 'Código';
 $_['column_discount']     = 'Discount';
 $_['column_date_start']   = 'Date Start';
 $_['column_date_end']     = 'Date End';
-$_['column_status']       = 'Status';
+$_['column_status']       = 'Estado';
 $_['column_order_id']     = 'Order ID';
 $_['column_customer']     = 'Customer';
 $_['column_amount']       = 'Amount';
-$_['column_date_added']   = 'Date Added';
-$_['column_action']       = 'Action';
+$_['column_date_added']   = 'Fecha creación';
+$_['column_action']       = 'Acción';
 
 // Entry
 $_['entry_name']          = 'Coupon Name:';
@@ -34,7 +34,7 @@ $_['entry_date_start']    = 'Date Start:';
 $_['entry_date_end']      = 'Date End:';
 $_['entry_uses_total']    = 'Uses Per Coupon:<br /><span class="help">The maximum number of times the coupon can be used by any customer. Leave blank for unlimited</span>';
 $_['entry_uses_customer'] = 'Uses Per Customer:<br /><span class="help">The maximum number of times the coupon can be used by a single customer. Leave blank for unlimited</span>';
-$_['entry_status']        = 'Status:';
+$_['entry_status']        = 'Estado:';
 
 // Error
 $_['error_permission']    = 'Warning: You do not have permission to modify coupons!';

@@ -16,12 +16,12 @@ $_['column_name']               = 'Affiliate Name';
 $_['column_email']              = 'E-Mail';
 $_['column_code']               = 'Tracking Code';
 $_['column_balance']            = 'Balance';
-$_['column_status']             = 'Status';
+$_['column_status']             = 'Estado';
 $_['column_approved']           = 'Approved';
-$_['column_date_added']         = 'Date Added';
+$_['column_date_added']         = 'Fecha creación';
 $_['column_description']        = 'Description';
 $_['column_amount']             = 'Amount';
-$_['column_action']             = 'Action';
+$_['column_action']             = 'Acción';
 
 // Entry
 $_['entry_firstname']           = 'First Name:';
@@ -29,7 +29,7 @@ $_['entry_lastname']            = 'Last Name:';
 $_['entry_email']               = 'E-Mail:';
 $_['entry_telephone']           = 'Telephone:';
 $_['entry_fax']                 = 'Fax:';
-$_['entry_status']              = 'Status:';
+$_['entry_status']              = 'Estado:';
 $_['entry_password']            = 'Password:';
 $_['entry_confirm']             = 'Confirm:';
 $_['entry_company']             = 'Company:';
@@ -51,7 +51,7 @@ $_['entry_bank_swift_code']     = 'SWIFT Code:';
 $_['entry_bank_account_name']   = 'Account Name:';
 $_['entry_bank_account_number'] = 'Account Number:';
 $_['entry_amount']              = 'Amount:';
-$_['entry_description']         = 'Description:';
+$_['entry_description']         = 'Descripción';
 
 // Error
 $_['error_permission']          = 'Warning: You do not have permission to modify affiliates!';

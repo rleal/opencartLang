@@ -22,9 +22,9 @@ $_['entry_airsure_insurance_2']              = 'Compensation Rates:<br /><span c
 $_['entry_display_weight']                   = 'Display Delivery Weight:<br /><span class="help">Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)</span>';
 $_['entry_display_insurance']                = 'Display Insurance:<br /><span class="help">Do you want to display the shipping insurance? (e.g. Insured upto &pound;500)</span>';
 $_['entry_weight_class']                     = 'Weight Class:';
-$_['entry_tax_class']                        = 'Tax Class:';
-$_['entry_geo_zone']                         = 'Geo Zone:';
-$_['entry_status']                           = 'Status:';
+$_['entry_tax_class']                        = 'Tipo de tasa:';
+$_['entry_geo_zone']                         = 'Geo zona:';
+$_['entry_status']                           = 'Estado:';
 $_['entry_sort_order']                       = 'Sort Order:';
 
 // Tab
