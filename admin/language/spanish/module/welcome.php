@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']       = 'Welcome';
+$_['heading_title']       = 'Bienvenida';
 
 // Text
 $_['text_module']         = 'Módulos';
-$_['text_success']        = 'Success: You have modified module welcome!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_success']        = 'Módulo modificado con éxito welcome!';
+$_['text_content_top']    = 'Contenido parte superior';
+$_['text_content_bottom'] = 'Contenido parte inferior';
+$_['text_column_left']    = 'Columna izquierda';
+$_['text_column_right']   = 'Columna derecha';
 
 // Entry
-$_['entry_description']   = 'Welcome Message:';
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
+$_['entry_description']   = 'Mensaje de bienvenida:';
+$_['entry_layout']        = 'Diseño:';
+$_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_sort_order']    = 'Orden:';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module welcome!';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo bienvenida';
 ?>

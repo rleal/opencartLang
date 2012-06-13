@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']       = 'Account';
+$_['heading_title']       = 'Cuenta';
 
 // Text
 $_['text_module']         = 'Módulos';
-$_['text_success']        = 'Success: You have modified module account!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_success']        = 'Módulo de cuenta modificado con éxito';
+$_['text_content_top']    = 'Contenido parte superior';
+$_['text_content_bottom'] = 'Contenido parte inferior';
+$_['text_column_left']    = 'Columna izquierda';
+$_['text_column_right']   = 'Columna derecha';
 
 // Entry
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
+$_['entry_layout']        = 'Diseño:';
+$_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_sort_order']    = 'Orden:';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module account!';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo account!';
 ?>
