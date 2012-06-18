@@ -25,7 +25,7 @@ $_['entry_weight_class']                     = 'Weight Class:';
 $_['entry_tax_class']                        = 'Tipo de tasa:';
 $_['entry_geo_zone']                         = 'Geo zona:';
 $_['entry_status']                           = 'Estado:';
-$_['entry_sort_order']                       = 'Sort Order:';
+$_['entry_sort_order']                       = 'Orden:';
 
 // Tab
 $_['tab_1st_class_standard']                 = 'First Class Standard Post';
@@ -42,5 +42,5 @@ $_['tab_airsure']                            = 'Airsure';
 $_['tab_surface']                            = 'Surface';
 
 // Error
-$_['error_permission']                       = 'Warning: You do not have permission to modify Royal Mail shipping!';
+$_['error_permission']                       = 'Atención: No tienes permisos para modificar Royal Mail shipping!';
 ?>

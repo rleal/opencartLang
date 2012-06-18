@@ -10,9 +10,9 @@ $_['text_wait']           = 'Please Wait!';
 
 // Text
 $_['text_return_id']      = 'Return ID:';
-$_['text_order_id']       = 'Order ID:';
+$_['text_order_id']       = 'ID Pedido:';
 $_['text_date_ordered']   = 'Order Date:';
-$_['text_customer']       = 'Customer:';
+$_['text_Cliente']       = 'Cliente:';
 $_['text_email']          = 'E-Mail:';
 $_['text_telephone']      = 'Telephone:';
 $_['text_return_status']  = 'Return Status:';
@@ -27,20 +27,20 @@ $_['text_comment']        = 'Comment:';
 
 // Column
 $_['column_return_id']     = 'Return ID';
-$_['column_order_id']      = 'Order ID';
-$_['column_customer']      = 'Customer';
+$_['column_order_id']      = 'ID Pedido';
+$_['column_Cliente']      = 'Cliente';
 $_['column_product']       = 'Product';
 $_['column_model']         = 'Model';
 $_['column_status']        = 'Estado';
 $_['column_date_added']    = 'Fecha creación';
 $_['column_date_modified'] = 'Fecha modificación';
 $_['column_comment']       = 'Comment';
-$_['column_notify']        = 'Customer Notified';
+$_['column_notify']        = 'Cliente Notified';
 $_['column_action']        = 'Acción';
 
 // Entry
-$_['entry_customer']      = 'Customer:';
-$_['entry_order_id']      = 'Order ID:';
+$_['entry_Cliente']      = 'Cliente:';
+$_['entry_order_id']      = 'ID Pedido:';
 $_['entry_date_ordered']  = 'Order Date:';
 $_['entry_firstname']     = 'First Name:';
 $_['entry_lastname']      = 'Last Name:';
@@ -53,13 +53,13 @@ $_['entry_reason']        = 'Return Reason:';
 $_['entry_opened']        = 'Opened:';
 $_['entry_comment']       = 'Comment:';
 $_['entry_return_status'] = 'Return Status:';
-$_['entry_notify']        = 'Notify Customer:';
+$_['entry_notify']        = 'Notify Cliente:';
 $_['entry_action']        = 'Return Action:';
 
 // Error
-$_['error_warning']       = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']    = 'Warning: You do not have permission to modify returns!';
-$_['error_order_id']      = 'Order ID required!';
+$_['error_warning']       = 'Atención: Please check the form carefully for errors!';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar returns!';
+$_['error_order_id']      = 'ID Pedido required!';
 $_['error_firstname']     = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']      = 'Last Name must be between 1 and 32 characters!';
 $_['error_email']         = 'E-Mail Address does not appear to be valid!';

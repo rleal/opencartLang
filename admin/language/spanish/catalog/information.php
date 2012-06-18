@@ -14,7 +14,7 @@ $_['column_action']     = 'Acción';
 // Entry
 $_['entry_title']       = 'Título de información:';
 $_['entry_description'] = 'Descripción:';
-$_['entry_store']       = 'Tiendas:';
+$_['entry_Tienda']       = 'Tiendas:';
 $_['entry_keyword']     = 'Palabra clave SEO:<br /><span class="help">Usa el carácter - en vez de espacios en blanco y asegúrate que es una palabra clave única.</span>';
 $_['entry_bottom']      = 'Abajo:<br/><span class="help">Mostrar en el pie de página</span>';
 $_['entry_status']      = 'Estado:';
@@ -29,5 +29,5 @@ $_['error_description'] = 'La descripción debe tener más de 3 carácteres';
 $_['error_account']     = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de la cuenta de la tienda';
 $_['error_checkout']    = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de pedido';
 $_['error_affiliate']   = 'Atención: Esta página de información no puede ser eliminada porque actualmente está asignada como términos de afiliación de la tienda';
-$_['error_store']       = 'Atención: Esta página de información no puede ser eliminada porque actualmente es usada por %s tiendas';
+$_['error_Tienda']       = 'Atención: Esta página de información no puede ser eliminada porque actualmente es usada por %s tiendas';
 ?>

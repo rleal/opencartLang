@@ -20,7 +20,7 @@ $_['entry_meta_keyword'] 	 = 'Meta Tag palabras clave:';
 $_['entry_meta_description'] = 'Meta Tag descripción:';
 $_['entry_description']      = 'Descripción:';
 $_['entry_parent']           = 'Categoría padre:';
-$_['entry_store']            = 'Tiendas:';
+$_['entry_Tienda']            = 'Tiendas:';
 $_['entry_keyword']          = 'Palabra clave SEO:<br /><span class="help">Usa el carácter - en vez de espacios en blanco y asegúrate que es una palabra clave única.</span>';
 $_['entry_image']            = 'Imagen:';
 $_['entry_top']              = 'Arriba:<br/><span class="help">Mostrar en la barra de menú. Sólo funciona con la categoría raíz.</span>';

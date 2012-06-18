@@ -11,14 +11,14 @@ $_['text_twocheckout']	 = '<a onclick="window.open(\'https://www.2checkout.com/2
 $_['entry_account']      = '2Checkout Account ID:';
 $_['entry_secret']       = 'Secret Word:<br /><span class="help">The secret word to confirm transactions with (must be the same as defined on the merchat account configuration page).</span>';
 $_['entry_test']         = 'Test Mode:';
-$_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
-$_['entry_order_status'] = 'Order Status:';
+$_['entry_total']        = 'Total:<br /><span class="help">El total del pedido debe alcanzar esta cantidad para que la forma de pago se active.</span>';
+$_['entry_order_status'] = 'Estado del pedido:';
 $_['entry_geo_zone']     = 'Geo zona:';
 $_['entry_status']       = 'Estado:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Orden:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment 2Checkout!';
+$_['error_permission']   = 'Atención: No tienes permisos para modificar payment 2Checkout!';
 $_['error_account']      = 'Account No. Required!';
 $_['error_secret']       = 'Secret Word Required!';
 ?>

@@ -4,7 +4,7 @@ $_['heading_title']        = 'Tasas';
 
 // Text
 $_['text_percent']         = 'Porcentaje';
-$_['text_amount']          = 'Cantidad fija';
+$_['text_Importe']          = 'Cantidad fija';
 $_['text_success']         = 'Tipo de tasa modificado con éxito';
 
 // Column
@@ -20,7 +20,7 @@ $_['column_action']        = 'Acción';
 $_['entry_name']           = 'Nombre de tasa:';
 $_['entry_rate']           = 'Tasa impositiva:';
 $_['entry_type']           = 'Tipo:';
-$_['entry_customer_group'] = 'Grupo clientes:';
+$_['entry_Cliente_group'] = 'Grupo clientes:';
 $_['entry_geo_zone']       = 'Geo zona:';
 
 // Error

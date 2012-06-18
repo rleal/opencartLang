@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']  = 'Products Viewed Report';
+$_['heading_title']  = 'Productos Viewed Report';
 
 // Text
 $_['text_success']   = 'Success: You have reset the product viewed report!';

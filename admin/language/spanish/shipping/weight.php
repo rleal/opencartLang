@@ -11,8 +11,8 @@ $_['entry_rate']       = 'Rates:<br /><span class="help">Example: 5:10.00,7:12.0
 $_['entry_tax_class']  = 'Tipo de tasa:';
 $_['entry_geo_zone']   = 'Geo zona:';
 $_['entry_status']     = 'Estado:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight based shipping!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar weight based shipping!';
 ?>

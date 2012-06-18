@@ -11,8 +11,8 @@ $_['entry_total']      = 'Order Total:';
 $_['entry_fee']        = 'Fee:';
 $_['entry_tax_class']  = 'Tipo de tasa:';
 $_['entry_status']     = 'Estado:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar handling fee total!';
 ?>

@@ -51,7 +51,7 @@ $_['text_variable']         = 'Variable';
 
 // Entry
 $_['entry_user_id']         = 'User ID:';
-$_['entry_postcode']        = 'Zip Code:';
+$_['entry_postCódigo']        = 'Zip Código:';
 $_['entry_domestic']        = 'Domestic Services:';
 $_['entry_international']   = 'International Services:';
 $_['entry_size']            = 'Size:';
@@ -64,13 +64,13 @@ $_['entry_weight_class']    = 'Weight Class:<br /><span class="help">Must be set
 $_['entry_tax']             = 'Tipo de tasa:';
 $_['entry_geo_zone']        = 'Geo zona:';
 $_['entry_status']          = 'Estado:';
-$_['entry_sort_order']      = 'Sort Order:';
+$_['entry_sort_order']      = 'Orden:';
 $_['entry_debug']      		= 'Debug Mode:<br /><span class="help">Saves send/recv data to the system log</span>';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_permission']      = 'Atención: No tienes permisos para modificar United States Postal Service!';
 $_['error_user_id']         = 'User ID Required!';
-$_['error_postcode']        = 'Zip Code Required!';
+$_['error_postCódigo']        = 'Zip Código Required!';
 $_['error_width']        	= 'Width Required!';
 $_['error_length']        	= 'Length Required!';
 $_['error_height']        	= 'Height Required!';

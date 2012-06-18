@@ -11,8 +11,8 @@ $_['entry_cost']       = 'Cost:';
 $_['entry_tax_class']  = 'Tipo de tasa:';
 $_['entry_geo_zone']   = 'Geo zona:';
 $_['entry_status']     = 'Estado:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping per item rates!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar shipping per item rates!';
 ?>

@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer';
+$_['heading_title']         = 'Cliente';
 
 // Text
-$_['text_success']          = 'Success: You have modified customers!';
+$_['text_success']          = 'Success: You have modified Clientes!';
 $_['text_default']          = 'Default';
 $_['text_approved']         = 'You have approved %s accounts!';
 $_['text_wait']             = 'Please Wait!';
@@ -12,15 +12,15 @@ $_['text_add_blacklist']    = 'Add Blacklist';
 $_['text_remove_blacklist'] = 'Remove Blacklist';
 
 // Column
-$_['column_name']           = 'Customer Name';
+$_['column_name']           = 'Cliente Name';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_Cliente_group'] = 'Cliente Group';
 $_['column_status']         = 'Estado'; 
-$_['column_login']          = 'Login into Store';
+$_['column_login']          = 'Login into Tienda';
 $_['column_approved']       = 'Approved';
 $_['column_date_added']     = 'Fecha creación';
 $_['column_description']    = 'Description';
-$_['column_amount']         = 'Amount';
+$_['column_Importe']         = 'Importe';
 $_['column_points']         = 'Points';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Total Accounts';
@@ -33,7 +33,7 @@ $_['entry_email']           = 'E-Mail:';
 $_['entry_telephone']       = 'Telephone:';
 $_['entry_fax']             = 'Fax:';
 $_['entry_newsletter']      = 'Newsletter:';
-$_['entry_customer_group']  = 'Grupo clientes:';
+$_['entry_Cliente_group']  = 'Grupo clientes:';
 $_['entry_status']          = 'Estado:';
 $_['entry_password']        = 'Password:';
 $_['entry_confirm']         = 'Confirm:';
@@ -43,18 +43,18 @@ $_['entry_tax_id']          = 'Tax ID:';
 $_['entry_address_1']       = 'Address 1:';
 $_['entry_address_2']       = 'Address 2:';
 $_['entry_city']            = 'City:';
-$_['entry_postcode']        = 'Postcode:';
+$_['entry_postCódigo']        = 'PostCódigo:';
 $_['entry_country']         = 'Country:';
 $_['entry_zone']            = 'Region / State:';
 $_['entry_default']         = 'Default Address:';
-$_['entry_amount']          = 'Amount:';
+$_['entry_Importe']          = 'Importe:';
 $_['entry_points']          = 'Points:<br /><span class="help">Use minus to remove points</span>';
 $_['entry_description']     = 'Descripción';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify customers!';
-$_['error_exists']          = 'Warning: E-Mail Address is already registered!';
+$_['error_warning']         = 'Atención: Please check the form carefully for errors!';
+$_['error_permission']      = 'Atención: No tienes permisos para modificar Clientes!';
+$_['error_exists']          = 'Atención: E-Mail Address is already registered!';
 $_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
 $_['error_email']           = 'E-Mail Address does not appear to be valid!';
@@ -64,9 +64,9 @@ $_['error_confirm']         = 'Password and password confirmation do not match!'
 $_['error_company_id']      = 'Company ID required!';
 $_['error_tax_id']          = 'Tax ID required!';
 $_['error_vat']             = 'VAT number is invalid!';
-$_['error_address_1']       = 'Address 1 must be between 3 and 128 characters!';
+$_['error_address_1']       = 'Address 1 debe tener entre 3 y 128 carácteres';
 $_['error_city']            = 'City must be between 2 and 128 characters!';
-$_['error_postcode']        = 'Postcode must be between 2 and 10 characters for this country!';
+$_['error_postCódigo']        = 'PostCódigo must be between 2 and 10 characters for this country!';
 $_['error_country']         = 'Please select a country!';
 $_['error_zone']            = 'Please select a region / state!';
 ?>
