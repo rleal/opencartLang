@@ -4,18 +4,18 @@ $_['heading_title']      = 'PayPal Website Payment Pro (UK)';
 
 // Text 
 $_['text_payment']       = 'Pago';
-$_['text_success']       = 'Success: You have modified PayPal Direct (UK) account details!';
+$_['text_success']       = 'Has modificado los detalles de cuenta PayPal Direct (UK) con éxito';
 $_['text_pp_pro_uk']     = '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro (UK)" title="PayPal Website Payment Pro (UK)" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorization'] = 'Authorization';
-$_['text_sale']          = 'Sale';
+$_['text_authorization'] = 'Autorización';
+$_['text_sale']          = 'Venta';
 
 // Entry
-$_['entry_vendor']       = 'Vendor:<br /><span class="help">Your merchant login ID that you created when you registered for the Website Payments Pro account.</span>';
-$_['entry_user']         = 'User:<br /><span class="help">If you set up one or more additional users on the account, this value is the ID of the user authorised to process transactions. If, however, you have not set up additional users on the account, USER has the same value as VENDOR.</span>';
-$_['entry_password']     = 'Password:<br /><span class="help">The 6 to 32 character password that you defined while registering for the account.</span>';
-$_['entry_partner']      = 'Partner:<br /><span class="help">The ID provided to you by the authorised PayPal Reseller who registered you for the Payflow SDK. If you purchased your account directly from PayPal, use PayPalUK.</span>';
-$_['entry_test']         = 'Test Mode:<br /><span class="help">Use the live or testing (sandbox) gateway server to process transactions?</span>';
-$_['entry_transaction']  = 'Transaction Method:';
+$_['entry_vendor']       = 'Vendedor:<br /><span class="help">La Merchant ID que creaste cuando te registraste en Website Payments Pro account.</span>';
+$_['entry_user']         = 'Usuario:<br /><span class="help">Si creaste uno o más usuarios adicionales en la cuenta, este valor es el ID del usuario autorizado para procesar transacciones. Si por contra no has configurado usuarios adicionales en la cuenta, el usuario tiene que ser el mismo que el vendedor.</span>';
+$_['entry_password']     = 'Contraseña:<br /><span class="help">La contraseña de 6 a 32 carácteres que definiste cuando te registraste.</span>';
+$_['entry_partner']      = 'Partner:<br /><span class="help">El ID que se te proporcionó por el Reseller autorizado de paypal que te registró para el SDK payflow. Si compraste tu cuenta directamente en paypal, usa PayPalUK.</span>';
+$_['entry_test']         = 'Modo test:<br /><span class="help">Usar el servidor real o de pruebas para procesar las transacciones (sandbox)?</span>';
+$_['entry_transaction']  = 'Método transacción:';
 $_['entry_total']        = 'Total:<br /><span class="help">El total del pedido debe alcanzar esta cantidad para que la forma de pago se active.</span>';
 $_['entry_order_status'] = 'Estado del pedido:';
 $_['entry_geo_zone']     = 'Geo zona:';
@@ -23,9 +23,9 @@ $_['entry_status']       = 'Estado:';
 $_['entry_sort_order']   = 'Orden:';
 
 // Error
-$_['error_permission']   = 'Atención: No tienes permisos para modificar payment PayPal Website Payment Pro (UK)!';
-$_['error_vendor']       = 'Vendor Required!'; 
-$_['error_user']         = 'User Required!'; 
-$_['error_password']     = 'Password Required!'; 
-$_['error_partner']      = 'Partner Required!'; 
+$_['error_permission']   = 'Atención: No tienes permisos para modificar PayPal Website Payment Pro (UK)!';
+$_['error_vendor']       = 'Vendedor obligatorio!'; 
+$_['error_user']         = 'Usuario obligatorio!'; 
+$_['error_password']     = 'Contraseña obligatoria!'; 
+$_['error_partner']      = 'Partner obligatorio!'; 
 ?>

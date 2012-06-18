@@ -25,7 +25,8 @@ $_['entry_status']       = 'Estado:';
 $_['entry_sort_order']   = 'Orden:';
 
 // Error 
-$_['error_permission']   = 'Atención: No tienes permisos para modificar payment Authorize.Net (SIM)!';
-$_['error_login']        = 'Login ID Required!';
-$_['error_key']          = 'Transaction Key Required!';
+$_['error_permission']   = 'Atención: No tienes permisos para modificar el método de pago Authorize.Net (SIM)!';
+$_['error_login']        = 'Login ID obligatorio';
+$_['error_key']          = 'Transaction Key obligatoria!';
+$_['error_hash']         = 'MD5 Hash obligatorio!';
 ?>
