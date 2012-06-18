@@ -9,7 +9,7 @@ $_['text_image_manager'] = 'Gestor de imágenes';
 $_['text_browse']        = 'Buscar ficheros';
 $_['text_clear']         = 'Eliminar imagen';
 $_['text_percent']       = 'Porcentaje';
-$_['text_Importe']        = 'Cantidad fija';
+$_['text_amount']        = 'Cantidad fija';
 
 // Column
 $_['column_name']        = 'Nombre de fabricante';

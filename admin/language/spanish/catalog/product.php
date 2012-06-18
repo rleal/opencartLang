@@ -13,7 +13,7 @@ $_['text_clear']             = 'Eliminar imagen';
 $_['text_option']            = 'Opción';
 $_['text_option_value']      = 'Valor de opción';
 $_['text_percent']           = 'Porcentaje';
-$_['text_Importe']            = 'Cantidad fija';
+$_['text_amount']            = 'Cantidad fija';
 
 // Column
 $_['column_name']            = 'Nombre de producto';

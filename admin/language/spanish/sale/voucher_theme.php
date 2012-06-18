@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']      = 'Voucher Themes';
+$_['heading_title']      = 'Tema de vales';
 
 // Text
-$_['text_success']       = 'Success: You have modified voucher themes!';
-$_['text_image_manager'] = 'Image Manager';
-$_['text_browse']        = 'Browse Files';
+$_['text_success']       = 'Éxito: has modificado los temas de vale';
+$_['text_image_manager'] = 'Gestor de imágenes';
+$_['text_browse']        = 'Examinar Archivos';
 $_['text_clear']         = 'Eliminar Imagen';
 
 // Column
-$_['column_name']        = 'Voucher Theme Name';
+$_['column_name']        = 'Nombre de tema de vale';
 $_['column_action']      = 'Acción';
 
 // Entry
-$_['entry_name']         = 'Voucher Theme Name:';
-$_['entry_description']  = 'Voucher Theme Description:';
+$_['entry_name']         = 'Nombre de tema de vale:';
+$_['entry_description']  = 'Descripción de tema de vale:';
 $_['entry_image']        = 'Imagen:';
 
 // Error
-$_['error_permission']  = 'Atención: No tienes permisos para modificar voucher themes!';
-$_['error_name']        = 'Voucher Theme Name must be between 3 and 32 characters!';
-$_['error_image']       = 'Image required!';
-$_['error_voucher']     = 'Atención: This voucher theme cannot be deleted as it is currently assigned to %s vouchers!';
+$_['error_permission']  = 'Cuidado: No tienes permisos para modificar temas de vale!';
+$_['error_name']        = 'El nombre del tema de vale debe tener entre 3 y 32 carácteres!';
+$_['error_image']       = 'Imagen obligatoria!';
+$_['error_voucher']     = 'Cuidado: Este tema de vale no se puede borrar ya que está actualmente asignado a %s vales!';
 ?>

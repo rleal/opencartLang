@@ -4,7 +4,7 @@ $_['heading_title']        = 'Tasas';
 
 // Text
 $_['text_percent']         = 'Porcentaje';
-$_['text_Importe']          = 'Cantidad fija';
+$_['text_amount']          = 'Cantidad fija';
 $_['text_success']         = 'Tipo de tasa modificado con éxito';
 
 // Column
