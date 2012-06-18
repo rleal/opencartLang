@@ -7,14 +7,14 @@ $_['text_success']           = 'Zonas modificadas con éxito';
 
 // Column
 $_['column_name']            = 'Nombre de zona';
-$_['column_Código']            = 'Código de zona';
+$_['column_code']            = 'Código de zona';
 $_['column_country']         = 'País';
 $_['column_action']          = 'Acción';
 
 // Entry
 $_['entry_status']           = 'Estado de zona:';
 $_['entry_name']             = 'Nombre de zona:';
-$_['entry_Código']             = 'Código de zona:';
+$_['entry_code']             = 'Código de zona:';
 $_['entry_country']          = 'País:';
 
 // Error

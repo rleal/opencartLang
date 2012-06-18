@@ -18,5 +18,5 @@ $_['entry_status']        = 'Estado:';
 $_['entry_sort_order']    = 'Orden:';
 
 // Error
-$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo categoría';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo categorías!';
 ?>

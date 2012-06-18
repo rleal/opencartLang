@@ -12,7 +12,7 @@ $_['text_column_right']   = 'Columna derecha';
 
 // Entry
 $_['entry_banner']        = 'Banner:';
-$_['entry_dimension']     = 'Dimensiones (W x H):';
+$_['entry_dimension']     = 'Tamaño (Ancho x Alto):';
 $_['entry_layout']        = 'Diseño:';
 $_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
@@ -20,5 +20,5 @@ $_['entry_sort_order']    = 'Orden:';
 
 // Error
 $_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo banner!';
-$_['error_dimension']     = 'Las dimensiones ancho y alto son obligatorias';
+$_['error_dimension']     = 'El tamaño ancho y alto es obligatorio';
 ?>

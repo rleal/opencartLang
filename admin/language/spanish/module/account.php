@@ -17,5 +17,5 @@ $_['entry_status']        = 'Estado:';
 $_['entry_sort_order']    = 'Orden:';
 
 // Error
-$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo account!';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo cuenta!';
 ?>

@@ -19,5 +19,5 @@ $_['entry_sort_order']    = 'Orden:';
 
 // Error
 $_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo Google Talk!';
-$_['error_Código']          = 'Código es obligatorio';
+$_['error_code']          = 'Código obligatorio';
 ?>

@@ -7,14 +7,14 @@ $_['text_success']            = 'Países' ;
 
 // Column
 $_['column_name']             = 'Nombre de país';
-$_['column_iso_Código_2']       = 'Código ISO (2)';
-$_['column_iso_Código_3']       = 'Código ISO (3)';
+$_['column_iso_code_2']       = 'Código ISO (2)';
+$_['column_iso_code_3']       = 'Código ISO (3)';
 $_['column_action']           = 'Acción';
 
 // Entry
 $_['entry_name']              = 'Nombre de país:';
-$_['entry_iso_Código_2']        = 'Código ISO (2):';
-$_['entry_iso_Código_3']        = 'Código ISO (3):';
+$_['entry_iso_code_2']        = 'Código ISO (2):';
+$_['entry_iso_code_3']        = 'Código ISO (3):';
 $_['entry_address_format']    = 'Formato de dirección:<br /><span class="help">
 Nombre = {firstname}<br />
 Apellidos = {lastname}<br />
@@ -24,7 +24,7 @@ Dirección 2 = {address_2}<br />
 Ciudad = {city}<br />
 Cod. Postal = {postCódigo}<br />
 Zona = {zone}<br />
-Códiga de zona = {zone_Código}<br />
+Códiga de zona = {zone_code}<br />
 País = {country}</span>';
 $_['entry_postCódigo_required'] = 'Cod. Postal Obligatorio:';
 $_['entry_status']            = 'Estado:';

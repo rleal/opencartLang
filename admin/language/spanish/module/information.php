@@ -4,7 +4,7 @@ $_['heading_title']       = 'Información';
 
 // Text
 $_['text_module']         = 'Módulos';
-$_['text_success']        = 'Información del modulo modificada con éxito';
+$_['text_success']        = 'Información del módulo modificada con éxito';
 $_['text_content_top']    = 'Contenido parte superior';
 $_['text_content_bottom'] = 'Contenido parte inferior';
 $_['text_column_left']    = 'Columna Izquierda';
@@ -17,5 +17,5 @@ $_['entry_status']        = 'Estado:';
 $_['entry_sort_order']    = 'Orden:';
 
 // Error
-$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo información';
+$_['error_permission']    = 'Atención: No tienes permisos para modificar el módulo información!';
 ?>

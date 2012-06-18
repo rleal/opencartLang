@@ -4,7 +4,7 @@ $_['heading_title']       = 'Destacados';
 
 // Text
 $_['text_module']         = 'Módulos';
-$_['text_success']        = 'Módulo destacados con éxito';
+$_['text_success']        = 'Módulo destacados modificado con éxito';
 $_['text_content_top']    = 'Contenido parte superior';
 $_['text_content_bottom'] = 'Contenido parte inferior';
 $_['text_column_left']    = 'Columna izquierda';

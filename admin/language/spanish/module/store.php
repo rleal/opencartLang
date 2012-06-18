@@ -11,7 +11,7 @@ $_['text_column_left']    = 'Columna izquierda';
 $_['text_column_right']   = 'Columna derecha';
 
 // Entry
-$_['entry_admin']         = 'Sólo para usuarios admin:';
+$_['entry_admin']         = 'Solo administradores:';
 $_['entry_layout']        = 'Diseño:';
 $_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
