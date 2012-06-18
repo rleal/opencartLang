@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Report';
+$_['heading_title']     = 'Informe de impuestos';
 
 // Text
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'Años';
+$_['text_month']        = 'Meses';
+$_['text_week']         = 'Semanas';
+$_['text_day']          = 'Días';
+$_['text_all_status']   = 'Todos los estados';
 
 // Column
-$_['column_date_start'] = 'Fecha de inicio';
+$_['column_date_start'] = 'Fecha inicio';
 $_['column_date_end']   = 'Fecha fin';
-$_['column_title']      = 'Tax Title';
-$_['column_orders']     = 'No. Orders';
+$_['column_title']      = 'Nombre del impuesto';
+$_['column_orders']     = 'Nº de pedido';
 $_['column_total']      = 'Total';
 
 // Entry
-$_['entry_date_start']  = 'Fecha de inicio:';
+$_['entry_date_start']  = 'Fecha inicio:';
 $_['entry_date_end']    = 'Fecha fin:';
-$_['entry_group']       = 'Group By:';
+$_['entry_group']       = 'Agrupar por:';
 $_['entry_status']      = 'Estado del pedido:';
 ?>

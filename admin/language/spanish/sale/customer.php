@@ -14,7 +14,7 @@ $_['text_remove_blacklist'] = 'Remove Blacklist';
 // Column
 $_['column_name']           = 'Cliente Name';
 $_['column_email']          = 'E-Mail';
-$_['column_Cliente_group'] = 'Cliente Group';
+$_['column_customer_group'] = 'Cliente Group';
 $_['column_status']         = 'Estado'; 
 $_['column_login']          = 'Login into Tienda';
 $_['column_approved']       = 'Approved';
@@ -33,7 +33,7 @@ $_['entry_email']           = 'E-Mail:';
 $_['entry_telephone']       = 'Telephone:';
 $_['entry_fax']             = 'Fax:';
 $_['entry_newsletter']      = 'Newsletter:';
-$_['entry_Cliente_group']  = 'Grupo clientes:';
+$_['entry_customer_group']  = 'Grupo clientes:';
 $_['entry_status']          = 'Estado:';
 $_['entry_password']        = 'Password:';
 $_['entry_confirm']         = 'Confirm:';

@@ -24,6 +24,6 @@ $_['entry_sort_order']          = 'Orden:';
 $_['error_permission']          = 'Atención: No tienes permisos para modificar Cliente groups!';
 $_['error_name']                = 'Cliente Group Name must be between 3 and 32 characters!';
 $_['error_default']             = 'Atención: This Cliente group cannot be deleted as it is currently assigned as the default Tienda Cliente group!';
-$_['error_Tienda']               = 'Atención: This Cliente group cannot be deleted as it is currently assigned to %s Tiendas!';
-$_['error_Cliente']            = 'Atención: This Cliente group cannot be deleted as it is currently assigned to %s Clientes!';
+$_['error_store']               = 'Atención: This Cliente group cannot be deleted as it is currently assigned to %s Tiendas!';
+$_['error_customer']            = 'Atención: This Cliente group cannot be deleted as it is currently assigned to %s Clientes!';
 ?>

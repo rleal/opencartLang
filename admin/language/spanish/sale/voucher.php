@@ -17,7 +17,7 @@ $_['column_theme']      = 'Theme';
 $_['column_Importe']     = 'Importe';
 $_['column_status']     = 'Estado';
 $_['column_order_id']   = 'ID Pedido';
-$_['column_Cliente']   = 'Cliente';
+$_['column_customer']   = 'Cliente';
 $_['column_date_added'] = 'Fecha creación';
 $_['column_action']     = 'Acción';
 

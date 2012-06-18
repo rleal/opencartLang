@@ -20,7 +20,7 @@ $_['column_action']        = 'Acción';
 $_['entry_name']           = 'Nombre de tasa:';
 $_['entry_rate']           = 'Tasa impositiva:';
 $_['entry_type']           = 'Tipo:';
-$_['entry_Cliente_group'] = 'Grupo clientes:';
+$_['entry_customer_group'] = 'Grupo clientes:';
 $_['entry_geo_zone']       = 'Geo zona:';
 
 // Error

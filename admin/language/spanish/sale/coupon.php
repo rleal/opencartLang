@@ -15,7 +15,7 @@ $_['column_date_start']   = 'Fecha de inicio';
 $_['column_date_end']     = 'Fecha fin';
 $_['column_status']       = 'Estado';
 $_['column_order_id']     = 'ID Pedido';
-$_['column_Cliente']     = 'Cliente';
+$_['column_customer']     = 'Cliente';
 $_['column_Importe']       = 'Importe';
 $_['column_date_added']   = 'Fecha creación';
 $_['column_action']       = 'Acción';
@@ -28,12 +28,12 @@ $_['entry_Descuento']      = 'Descuento:';
 $_['entry_logged']        = 'Cliente identificado:<br /><span class="help">El cliente debe estar identificado para usar el cupón.</span>';
 $_['entry_shipping']      = 'Envio gratuito:';
 $_['entry_total']         = 'Importe total:<br /><span class="help">El importe total debe alcanzarse antes de que el cupón sea válido.</span>';
-$_['entry_Categoría']      = 'Categoría:<br /><span class="help">Elige todos los productos bajo la categoría seleccionada.</span>';
+$_['entry_category']      = 'Categoría:<br /><span class="help">Elige todos los productos bajo la categoría seleccionada.</span>';
 $_['entry_product']       = 'Productos:<br /><span class="help">Choose specific Productos the Cupón will apply to. Select no Productos to apply Cupón to entire cart.</span>';
 $_['entry_date_start']    = 'Fecha de inicio:';
 $_['entry_date_end']      = 'Fecha fin:';
 $_['entry_uses_total']    = 'Usos por cupón:<br /><span class="help">Número máximo de veces que puede usarse un cupón. Dejar en blanco para usos ilimtados</span>';
-$_['entry_uses_Cliente'] = 'Usos por cliente:<br /><span class="help">Número máximo de veces que un cupón puede ser usado por un único cliente. Dejar en blanco para usos ilimitados</span>';
+$_['entry_uses_customer'] = 'Usos por cliente:<br /><span class="help">Número máximo de veces que un cupón puede ser usado por un único cliente. Dejar en blanco para usos ilimitados</span>';
 
 $_['entry_status']        = 'Estado:';
 

@@ -7,10 +7,10 @@ $_['text_success']                            = 'Success: You have modified orde
 $_['text_order_id']                           = 'ID Pedido:';
 $_['text_invoice_no']                         = 'Invoice No.:';
 $_['text_invoice_date']                       = 'Invoice Date:';
-$_['text_Tienda_name']                         = 'Tienda Name:';
-$_['text_Tienda_url']                          = 'Tienda Url:';
-$_['text_Cliente']                           = 'Cliente:';
-$_['text_Cliente_group']                     = 'Grupo clientes:';
+$_['text_store_name']                         = 'Tienda Name:';
+$_['text_store_url']                          = 'Tienda Url:';
+$_['text_customer']                           = 'Cliente:';
+$_['text_customer_group']                     = 'Grupo clientes:';
 $_['text_email']                              = 'E-Mail:';
 $_['text_telephone']                          = 'Telephone:';
 $_['text_fax']                                = 'Fax:';
@@ -104,7 +104,7 @@ $_['text_bin_name_match']                     = 'Bin Name Match:<br /><span clas
 $_['text_bin_name']                           = 'Bin Name:<br /><span class="help">Name of the bank which issued the credit card based on BIN number. Available for approximately 96% of BIN numbers.</span>';
 $_['text_bin_phone_match']                    = 'Bin Phone Match:<br /><span class="help">Whether Cliente service phone number matches inputed BIN Phone. A return value of Yes provides a positive indication that cardholder is in possession of credit card.</span>';
 $_['text_bin_phone']                          = 'Bin Phone:<br /><span class="help">Cliente service phone number listed on back of credit card. Available for approximately 75% of BIN numbers. In some cases phone number returned may be outdated.</span>';
-$_['text_Cliente_phone_in_billing_location'] = 'Cliente Phone Number in Billing Location:<br /><span class="help">Whether the Cliente phone number is in the billing zip Código. A return value of Yes provides a positive indication that the phone number listed belongs to the cardholder. A return value of No indicates that the phone number may be in a different area, or may not be listed in our database. NotFound is returned when the phone number prefix cannot be found in our database at all. Currently we only support US Phone numbers.</span>';
+$_['text_customer_phone_in_billing_location'] = 'Cliente Phone Number in Billing Location:<br /><span class="help">Whether the Cliente phone number is in the billing zip Código. A return value of Yes provides a positive indication that the phone number listed belongs to the cardholder. A return value of No indicates that the phone number may be in a different area, or may not be listed in our database. NotFound is returned when the phone number prefix cannot be found in our database at all. Currently we only support US Phone numbers.</span>';
 $_['text_ship_forward']                       = 'Shipping Forward:<br /><span class="help">Whether Dirección de envio is in database of known mail drops.</span>';
 $_['text_city_postal_match']                  = 'City Postal Match:<br /><span class="help">Whether billing city and state match zipCódigo. Currently available for US addresses only, returns empty string outside the US.</span>';
 $_['text_ship_city_postal_match']             = 'Shipping City Postal Match:<br /><span class="help">Whether shipping city and state match zipCódigo. Currently available for US addresses only, returns empty string outside the US.</span>';
@@ -117,7 +117,7 @@ $_['text_error']                              = 'Error:<br /><span class="help">
 
 // Column
 $_['column_order_id']                         = 'ID Pedido';
-$_['column_Cliente']                         = 'Cliente';
+$_['column_customer']                         = 'Cliente';
 $_['column_status']                           = 'Estado';
 $_['column_date_added']                       = 'Fecha creación';
 $_['column_date_modified']                    = 'Fecha modificación';
@@ -134,9 +134,9 @@ $_['column_notify']                           = 'Cliente Notified';
 $_['column_action']                           = 'Acción';
 
 // Entry
-$_['entry_Tienda']                             = 'Tienda:';
-$_['entry_Cliente']                          = 'Cliente:';
-$_['entry_Cliente_group']                    = 'Grupo clientes:';
+$_['entry_store']                             = 'Tienda:';
+$_['entry_customer']                          = 'Cliente:';
+$_['entry_customer_group']                    = 'Grupo clientes:';
 $_['entry_firstname']                         = 'First Name:';
 $_['entry_lastname']                          = 'Last Name:';
 $_['entry_email']                             = 'E-Mail:';

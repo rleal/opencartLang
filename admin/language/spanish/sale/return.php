@@ -12,7 +12,7 @@ $_['text_wait']           = 'Please Wait!';
 $_['text_return_id']      = 'Return ID:';
 $_['text_order_id']       = 'ID Pedido:';
 $_['text_date_ordered']   = 'Order Date:';
-$_['text_Cliente']       = 'Cliente:';
+$_['text_customer']       = 'Cliente:';
 $_['text_email']          = 'E-Mail:';
 $_['text_telephone']      = 'Telephone:';
 $_['text_return_status']  = 'Return Status:';
@@ -28,7 +28,7 @@ $_['text_comment']        = 'Comment:';
 // Column
 $_['column_return_id']     = 'Return ID';
 $_['column_order_id']      = 'ID Pedido';
-$_['column_Cliente']      = 'Cliente';
+$_['column_customer']      = 'Cliente';
 $_['column_product']       = 'Product';
 $_['column_model']         = 'Model';
 $_['column_status']        = 'Estado';
@@ -39,7 +39,7 @@ $_['column_notify']        = 'Cliente Notified';
 $_['column_action']        = 'Acción';
 
 // Entry
-$_['entry_Cliente']      = 'Cliente:';
+$_['entry_customer']      = 'Cliente:';
 $_['entry_order_id']      = 'ID Pedido:';
 $_['entry_date_ordered']  = 'Order Date:';
 $_['entry_firstname']     = 'First Name:';

@@ -27,6 +27,6 @@ $_['error_name']         = 'Nombre de banner debe tener entre 3 y 64 carácteres
 $_['error_title']        = 'El título de banner debe tener entre 2 y 64 carácteres';
 $_['error_default']      = 'Atención: Este diseño no puede ser eliminado porque actualmente es el diseño por defecto de la tienda';
 $_['error_product']      = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s productos';
-$_['error_Categoría']     = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s categorías';
+$_['error_category']     = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s categorías';
 $_['error_information']  = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s páginas de información';
 ?>

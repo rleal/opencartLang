@@ -7,7 +7,7 @@ $_['text_success']     = 'Success: You have modified Cliente IP blacklist!';
 
 // Column
 $_['column_ip']        = 'IP';
-$_['column_Cliente']  = 'Clientes';
+$_['column_customer']  = 'Clientes';
 $_['column_action']    = 'Acción';
 
 // Entry

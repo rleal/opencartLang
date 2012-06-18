@@ -9,8 +9,8 @@ $_['text_latest_10_orders']         = 'Últimos 10 pedidos';
 $_['text_total_sale']               = 'Ventas totales:';
 $_['text_total_sale_year']          = 'Ventas totales este año:';
 $_['text_total_order']              = 'Pedidos totales:';
-$_['text_total_Cliente']           = 'No. de clientes:';
-$_['text_total_Cliente_approval']  = 'Clientes esperando aprobación:';
+$_['text_total_customer']           = 'No. de clientes:';
+$_['text_total_customer_approval']  = 'Clientes esperando aprobación:';
 $_['text_total_review_approval']    = 'Comentarios esperando aprobación:';
 $_['text_total_affiliate']          = 'No. de afiliados:';
 $_['text_total_affiliate_approval'] = 'Afiliados esperando aprobación:';
@@ -19,11 +19,11 @@ $_['text_week']                     = 'Esta semana';
 $_['text_month']                    = 'Este mes';
 $_['text_year']                     = 'Este año';
 $_['text_order']                    = 'Pedidos totales';
-$_['text_Cliente']                 = 'Clientes totales';
+$_['text_customer']                 = 'Clientes totales';
 
 // Column 
 $_['column_order']                  = 'ID pedido';
-$_['column_Cliente']               = 'Cliente';
+$_['column_customer']               = 'Cliente';
 $_['column_status']                 = 'Estado';
 $_['column_date_added']             = 'Fecha creación';
 $_['column_total']                  = 'Total';

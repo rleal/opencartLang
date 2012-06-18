@@ -32,6 +32,6 @@ $_['error_directory']   = 'Directorio es obligatorio';
 $_['error_filename']    = 'El nombre de fichero debe tener entre 3 y 64 carácteres';
 $_['error_default']     = 'Atención: Este idioma no puede ser borrado porque está asignado como idioma por defecto de la tienda';
 $_['error_admin']       = 'Atención: Este idioma no puede ser borrado porque está asignado como el idioma de la administration';
-$_['error_Tienda']       = 'Atención: Este idioma no puede ser borrado porque está asignado a %s tiendas';
+$_['error_store']       = 'Atención: Este idioma no puede ser borrado porque está asignado a %s tiendas';
 $_['error_order']       = 'Atención: Este idioma no puede ser borrado porque está asignado a %s pedidos';
 ?>

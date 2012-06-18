@@ -7,18 +7,18 @@ $_['text_success']         = 'Your message has been successfully sent!';
 $_['text_sent']            = 'Your message has been successfully sent to %s of %s recipetants!';
 $_['text_default']         = 'Default';
 $_['text_newsletter']      = 'All Newsletter Subscribers';
-$_['text_Cliente_all']    = 'All Clientes';
-$_['text_Cliente_group']  = 'Cliente Group';
-$_['text_Cliente']        = 'Clientes';
+$_['text_customer_all']    = 'All Clientes';
+$_['text_customer_group']  = 'Cliente Group';
+$_['text_customer']        = 'Clientes';
 $_['text_affiliate_all']   = 'All Affiliates';
 $_['text_affiliate']       = 'Affiliates';
 $_['text_product']         = 'Productos';
 
 // Entry
-$_['entry_Tienda']          = 'From:';
+$_['entry_store']          = 'From:';
 $_['entry_to']             = 'To:';
-$_['entry_Cliente_group'] = 'Grupo clientes:';
-$_['entry_Cliente']       = 'Cliente:<br /><span class="help">Autocomplete</span>';
+$_['entry_customer_group'] = 'Grupo clientes:';
+$_['entry_customer']       = 'Cliente:<br /><span class="help">Autocomplete</span>';
 $_['entry_affiliate']      = 'Affiliate:<br /><span class="help">Autocomplete</span>';
 $_['entry_product']        = 'Productos:<br /><span class="help">Send only to Clientes who have ordered Productos in the list. (Autocomplete)</span>';
 $_['entry_subject']        = 'Subject:';

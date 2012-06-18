@@ -18,7 +18,7 @@ $_['column_action']      = 'Acción';
 
 // Entry
 $_['entry_name']         = 'Nombre de fabricante:';
-$_['entry_Tienda']        = 'Tiendas:';
+$_['entry_store']        = 'Tiendas:';
 $_['entry_keyword']      = 'Palabra clave SEO:<br /><span class="help">Usa el carácter - en vez de espacios en blanco y asegúrate que es una palabra clave única.</span>';
 $_['entry_image']        = 'Imagen:';
 $_['entry_sort_order']   = 'Orden:';

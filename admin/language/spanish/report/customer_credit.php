@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']         = 'Cliente Credit Report';
+$_['heading_title']         = 'Informe de crédito del cliente';
 
 // Column
-$_['column_Cliente']       = 'Cliente Name';
-$_['column_email']          = 'E-Mail';
-$_['column_Cliente_group'] = 'Cliente Group';
+$_['column_customer']       = 'Nombre del cliente';
+$_['column_email']          = 'email';
+$_['column_customer_group'] = 'Grupo del cliente';
 $_['column_status']         = 'Estado';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Acción';
 
 // Entry
-$_['entry_date_start']      = 'Fecha de inicio:';
-$_['entry_date_end']        = 'Fecha fin:';
+$_['entry_date_start']  = 'Fecha inicio:';
+$_['entry_date_end']    = 'Fecha fin:';
 ?>

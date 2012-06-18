@@ -5,7 +5,7 @@ $_['heading_title']     = 'Tipo de tasa';
 // Text
 $_['text_shipping']     = 'Dirección de envio';
 $_['text_payment']      = 'Dirección de facturación';
-$_['text_Tienda']        = 'Dirección de la tienda';
+$_['text_store']        = 'Dirección de la tienda';
 $_['text_success']      = 'Success: You have modified Tipo de tasaes!';
 
 // Column
