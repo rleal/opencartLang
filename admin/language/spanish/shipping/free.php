@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Envio gratuito';
+$_['heading_title']    = 'Envío gratuito';
 
 // Text 
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified Envio gratuito!';
+$_['text_shipping']    = 'Envío';
+$_['text_success']     = 'Éxito: has modificado el envío gratuito!';
 
 // Entry
-$_['entry_total']      = 'Total:<br /><span class="help">Sub-Total Importe needed before the Envio gratuito module becomes available.</span>';
-$_['entry_geo_zone']   = 'Geo zona:';
+$_['entry_total']      = 'Total:<br /><span class="help">El importe de sub-total mínimo antes de que el módulo de envío gratuito se active.</span>';
+$_['entry_geo_zone']   = 'Geo Zona:';
 $_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar Envio gratuito!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar envío gratuito';
 ?>

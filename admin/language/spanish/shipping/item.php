@@ -1,18 +1,18 @@
 <?php 
 // Heading
-$_['heading_title']     = 'Per Item';
+$_['heading_title']     = 'Por item';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified shipping per item rates!';
+$_['text_shipping']    = 'Envío';
+$_['text_success']     = 'Éxito: has modificado la tarifa de envío por item';
 
 // Entry
-$_['entry_cost']       = 'Cost:';
-$_['entry_tax_class']  = 'Tipo de tasa:';
-$_['entry_geo_zone']   = 'Geo zona:';
+$_['entry_cost']       = 'Coste:';
+$_['entry_tax_class']  = 'Tipo de impuesto:';
+$_['entry_geo_zone']   = 'Geo Zona:';
 $_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar shipping per item rates!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar tarifas de envío por item';
 ?>

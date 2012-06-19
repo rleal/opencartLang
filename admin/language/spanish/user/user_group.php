@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']     = 'User Group';
+$_['heading_title']     = 'Grupo usuarios';
 
 // Text
-$_['text_success']      = 'Success: You have modified user groups!';
+$_['text_success']     = 'Éxito: has modificado grupo usuarios!';
 
 // Column
-$_['column_name']       = 'User Group Name';
-$_['column_action']     = 'Acción';
+$_['column_name']      = 'Nombre grupo usuarios';
+$_['column_action']    = 'Acción';
 
 // Entry
-$_['entry_name']        = 'User Group Name:';
-$_['entry_access']      = 'Access Permission:';
-$_['entry_modify']      = 'Modify Permission:';
+$_['entry_name']       = 'Nombre grupo usuarios:';
+$_['entry_access']     = 'Permiso acceso:';
+$_['entry_modify']     = 'Permiso modificación:';
 
 // Error
-$_['error_permission']  = 'Atención: No tienes permisos para modificar user groups!';
-$_['error_name']        = 'User Group Name must be between 3 and 64 characters!';
-$_['error_user']        = 'Atención: This user group cannot be deleted as it is currently assigned to %s users!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar grupo usuarios!';
+$_['error_name']       = 'El nombre de grupo usuarios debe tener entre 3 y 64 carácteres!';
+$_['error_user']       = 'Atención: Este grupo de usuarios no se puede borrar ya que está actualmente asignado a %s usuarios!';
 ?>

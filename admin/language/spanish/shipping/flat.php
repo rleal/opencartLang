@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Flat Rate';
+$_['heading_title']    = 'Tarifa plana';
 
 // Text
-$_['text_shipping']    = 'Shipping';
-$_['text_success']     = 'Success: You have modified flat rate shipping!';
+$_['text_shipping']    = 'Envío';
+$_['text_success']     = 'Éxito: has modificado la tarifa plana!';
 
 // Entry
-$_['entry_cost']       = 'Cost:';
-$_['entry_tax_class']  = 'Tipo de tasa:';
-$_['entry_geo_zone']   = 'Geo zona:';
+$_['entry_cost']       = 'Coste:';
+$_['entry_tax']        = 'Tipo de impuesto:';
+$_['entry_geo_zone']   = 'Geo Zona:';
 $_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar flat rate shipping!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar la tarifa plana';
 ?>

@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Reward Points';
+$_['heading_title']    = 'Puntos recompensa';
 
 // Text
-$_['text_total']       = 'Totales de pedido';
-$_['text_success']     = 'Success: You have modified reward points total!';
+$_['text_total']       = 'Total pedido';
+$_['text_success']     = 'Éxito: has modificado el total de puntos recompensa!';
 
 // Entry
 $_['entry_status']     = 'Estado:';
-$_['entry_sort_order'] = 'Orden:';
+$_['entry_sort_order'] = 'Orden de aparición:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar reward points total!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar el total de puntos recompensa!';
 ?>

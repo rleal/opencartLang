@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Sub-Total';
 
 // Text
-$_['text_total']       = 'Totales de pedido';
-$_['text_success']     = 'Success: You have modified sub-total total!';
+$_['text_total']       = 'Total pedido';
+$_['text_success']     = 'Éxito: has modificado el sub-total';
 
 // Entry
 $_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar sub-total total!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar el sub-total!';
 ?>

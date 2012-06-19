@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Tarifa manipulación';
 
 // Text
-$_['text_total']       = 'Totales de pedido';
-$_['text_success']     = 'Success: You have modified handling fee total!';
+$_['text_total']       = 'Total pedido';
+$_['text_success']     = 'Éxito: has modificado el total de tarifa de manipulación!';
 
 // Entry
-$_['entry_total']      = 'Order Total:';
-$_['entry_fee']        = 'Fee:';
-$_['entry_tax_class']  = 'Tipo de tasa:';
+$_['entry_total']      = 'Total pedido:';
+$_['entry_fee']        = 'Tarifa:';
+$_['entry_tax_class']  = 'Tipo de impuesto:';
 $_['entry_status']     = 'Estado:';
 $_['entry_sort_order'] = 'Orden:';
 
 // Error
-$_['error_permission'] = 'Atención: No tienes permisos para modificar handling fee total!';
+$_['error_permission'] = 'Atención: No tienes permisos para modificar el total de tarifa de manipulación!';
 ?>
