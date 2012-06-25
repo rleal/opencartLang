@@ -1,7 +1,7 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Featured';
+$_['heading_title'] = 'Destacados';
 
 // Text
-$_['text_reviews']  = 'Based on %s reviews.'; 
+$_['text_reviews']  = 'Basado en %s valoraciones.'; 
 ?>

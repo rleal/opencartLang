@@ -1,25 +1,25 @@
 <?php
 // Heading 
-$_['heading_title']             = 'Payment Method';
+$_['heading_title']             = 'Método pago';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_payment']              = 'Payment';
-$_['text_your_payment']         = 'Payment Information';
-$_['text_your_password']        = 'Your Password';
+$_['text_account']              = 'Cuenta';
+$_['text_payment']              = 'Pago';
+$_['text_your_payment']         = 'Información de pago';
+$_['text_your_password']        = 'Tu contraseña';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_bank']                 = 'Transferencia bancaria';
+$_['text_success']              = 'Éxito: Tu cuenta ha sido actualizada.';
 
 // Entry
-$_['entry_tax']                 = 'Tax ID:';
-$_['entry_payment']             = 'Payment Method:';
-$_['entry_cheque']              = 'Cheque Payee Name:';
-$_['entry_paypal']              = 'PayPal Email Account:';
-$_['entry_bank_name']           = 'Bank Name:';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number):';
-$_['entry_bank_swift_code']     = 'SWIFT Code:';
-$_['entry_bank_account_name']   = 'Account Name:';
-$_['entry_bank_account_number'] = 'Account Number:';
+$_['entry_tax']                 = 'ID tasa:';
+$_['entry_payment']             = 'Método pago:';
+$_['entry_cheque']              = 'Receptor Cheque:';
+$_['entry_paypal']              = 'Email cuenta Paypal:';
+$_['entry_bank_name']           = 'Nombre banco:';
+$_['entry_bank_branch_number']  = 'ABA/BSB (Número oficina):';
+$_['entry_bank_swift_code']     = 'Código SWIFT:';
+$_['entry_bank_account_name']   = 'Nombre cuenta:';
+$_['entry_bank_account_number'] = 'Número cuenta:';
 ?>

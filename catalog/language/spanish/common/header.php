@@ -1,11 +1,16 @@
 <?php
 // Text
-$_['text_home']           = 'Home';
-$_['text_wishlist']       = 'Wish List (%s)';
-$_['text_shopping_cart']  = 'Shopping Cart';
-$_['text_search']         = 'Search';
-$_['text_welcome']        = 'Welcome visitor you can <a href="%s">login</a> or <a href="%s">create an account</a>.';
-$_['text_logged']         = 'You are logged in as <a href="%s">%s</a> <b>(</b> <a href="%s">Logout</a> <b>)</b>';
-$_['text_account']        = 'My Account';
-$_['text_checkout']       = 'Checkout';
+$_['text_home']     = 'Inicio';
+$_['text_wishlist'] = 'Lista de deseos (%s)';
+$_['text_cart']     = 'Carrito de compras';
+$_['text_items']    = '%s ítem(s) - %s';
+$_['text_search']   = 'Búsqueda';
+$_['text_welcome']  = 'Bienvenido, puedes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a>.';
+$_['text_logged']   = 'Has iniciado sesión como <a href="%s">%s</a> <b>(</b> <a href="%s">Salir</a> <b>)</b>';
+$_['text_account']  = 'Mi cuenta';
+$_['text_checkout'] = 'Realizar pedido';
+$_['text_language'] = 'Idioma';
+$_['text_currency'] = 'Moneda';
+
+$_['text_shopping_cart']  = 'Carrito de compras';
 ?>

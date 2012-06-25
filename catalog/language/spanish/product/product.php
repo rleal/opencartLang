@@ -1,52 +1,52 @@
 <?php
 // Text
-$_['text_search']       = 'Search';
-$_['text_brand']        = 'Brand';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_reward']       = 'Reward Points:'; 
-$_['text_points']       = 'Price in reward points:';
-$_['text_stock']        = 'Availability:';
-$_['text_instock']      = 'In Stock';
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_discount']     = '%s or more %s';
-$_['text_option']       = 'Available Options';
-$_['text_qty']          = 'Qty:';
-$_['text_minimum']      = 'This product has a minimum quantity of %s';
-$_['text_or']           = '- OR -';
-$_['text_reviews']      = '%s reviews'; 
-$_['text_write']        = 'Write a review';
-$_['text_no_reviews']   = 'There are no reviews for this product.';
-$_['text_on']           = ' on ';
-$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
-$_['text_share']        = 'Share';
-$_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_upload']       = 'Your file was successfully uploaded!';
-$_['text_wait']         = 'Please Wait!';
-$_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Product not found!';
+$_['text_search']       = 'Búsqueda';
+$_['text_brand']        = 'Marca';
+$_['text_manufacturer'] = 'Marca:';
+$_['text_model']        = 'Código producto:';
+$_['text_reward']       = 'Puntos recompensa:'; 
+$_['text_points']       = 'Precio en puntos recompensa:';
+$_['text_stock']        = 'Disponibilidad:';
+$_['text_instock']      = 'En stock';
+$_['text_price']        = 'Precio:'; 
+$_['text_tax']          = 'Tasas:'; 
+$_['text_discount']     = '%s o más %s';
+$_['text_option']       = 'Opciones disponibles';
+$_['text_qty']          = 'Cantidad:';
+$_['text_minimum']      = 'Este producto tiene una cantidad mínima de %s';
+$_['text_or']           = '- O -';
+$_['text_reviews']      = '%s opiniones'; 
+$_['text_write']        = 'Escribe una opinión';
+$_['text_no_reviews']   = 'No hay opiniones para este producto.';
+$_['text_on']           = ' en ';
+$_['text_note']         = '<span style="color: #FF0000;">Nota:</span> HTML no está traducido!';
+$_['text_share']        = 'Compartir';
+$_['text_success']      = 'Gracias por tu opinión. Ha sido enviada al webmaster para su aprobación.';
+$_['text_upload']       = 'El archivo ha sido subido satisfactoriamente!';
+$_['text_wait']         = 'Por favor espera!';
+$_['text_tags']         = 'Etiquetas:';
+$_['text_error']        = 'Producto no encontrado!';
 
 // Entry
-$_['entry_name']        = 'Your Name:';
-$_['entry_review']      = 'Your Review:';
-$_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
-$_['entry_captcha']     = 'Enter the code in the box below:';
+$_['entry_name']        = 'Tu nombre:';
+$_['entry_review']      = 'Tu opinión:';
+$_['entry_rating']      = 'Puntuación:';
+$_['entry_good']        = 'Bueno';
+$_['entry_bad']         = 'Malo';
+$_['entry_captcha']     = 'Introduce el código en la casilla inferior:';
 
 // Tabs
-$_['tab_description']   = 'Description';
-$_['tab_attribute']     = 'Specification';
-$_['tab_review']        = 'Reviews (%s)';
-$_['tab_related']       = 'Related Products'; 
+$_['tab_description']   = 'Descripción';
+$_['tab_attribute']     = 'Especificaciones';
+$_['tab_review']        = 'Opiniones (%s)';
+$_['tab_related']       = 'Productos relacionados'; 
 
 // Error
-$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']      = 'Warning: Please select a review rating!';
-$_['error_captcha']     = 'Warning: Verification code does not match the image!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype']    = 'Invalid file type!';
+$_['error_name']        = 'Atención: El título de la opinión debe tener entre 3 y 25 carácteres!';
+$_['error_text']        = 'Atención: La opinión debe tener entre 25 y 1000 carácteres!';
+$_['error_rating']      = 'Atención: Por favor selecciona una puntuación!';
+$_['error_captcha']     = 'Atención: El código de verificación no coincide con la imagen!';
+$_['error_upload']      = 'Subida de archivo obligatoria!';
+$_['error_filename']    = 'El nombre de archivo debe tener entre 3 y 128 carácteres!';
+$_['error_filetype']    = 'Tipo de archivo invalido!';
 ?>

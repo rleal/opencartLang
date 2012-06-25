@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_title']           = 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_wait']            = 'Please wait!';
+$_['text_title']           = 'Tarjeta de crédito/débito (SagePay)';
+$_['text_credit_card']     = 'Detalles tarjeta de crédito';
+$_['text_wait']            = 'Por favor espera!';
 
 // Entry
-$_['entry_cc_owner']       = 'Card Owner:';
-$_['entry_cc_number']      = 'Card Number:';
-$_['entry_cc_expire_date'] = 'Card Expiry Date:';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
+$_['entry_cc_owner']       = 'Nombre tarjeta:';
+$_['entry_cc_number']      = 'Numero tarjeta:';
+$_['entry_cc_expire_date'] = 'Fecha caducidad tarjeta:';
+$_['entry_cc_cvv2']        = 'Código seguridad tarjeta (CVV2):';
 ?>

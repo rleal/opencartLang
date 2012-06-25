@@ -1,56 +1,58 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Shopping Cart';
+$_['heading_title']   = 'Carrito';
 
 // Text
-$_['text_success']           = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']            = 'Success: You have modified your shopping cart!';
-$_['text_coupon']            = 'Success: Your coupon discount has been applied!';
-$_['text_voucher']           = 'Success: Your gift voucher discount has been applied!';
-$_['text_reward']            = 'Success: Your reward points discount has been applied!';
-$_['text_shipping']          = 'Success: Your shipping estimate has been applied!';
-$_['text_login']             = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_points']            = 'Reward Points: %s';
-$_['text_items']             = '%s item(s) - %s';
-$_['text_next']              = 'What would you like to do next?';
-$_['text_next_choice']       = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_use_coupon']        = 'Use Coupon Code';
-$_['text_use_voucher']       = 'Use Gift Voucher';
-$_['text_use_reward']        = 'Use Reward Points (Available %s)';
-$_['text_shipping_estimate'] = 'Estimate Shipping &amp; Taxes';
-$_['text_shipping_detail']   = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method']   = 'Please select the preferred shipping method to use on this order.';
-$_['text_empty']             = 'Your shopping cart is empty!';
+$_['text_weight']  	  = 'Peso del carrito:';
+$_['text_points']     = 'Puntos recompensa: %s';
+$_['text_items']      = '%s item(s) - %s';
+$_['text_success']    = 'Éxito: Has añadido <a href="%s">%s</a> a tu <a href="%s">carrito de compra</a>!';
+$_['text_empty']      = 'Tu carrito de compra está vacío!';
+$_['text_login']      = 'Atención: Debes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a> para ver los precios!';
+$_['text_remove']     = 'Éxito: Has modificado tu carrito de compras!';
+$_['text_coupon']	  = 'Éxito: El cupón de descuento se aplicó!';
+$_['text_voucher']           = 'Éxito: El descuento de regalo se aplicó!';
+$_['text_reward']            = 'Éxito: El descueto de los puntos de recompensa se aplicó';
+$_['text_shipping']          = 'Éxito: Se asplicó el estimado del costo del envio!';
+$_['text_next']              = 'Qué deseas hacer a continuación?';
+$_['text_next_choice']       = 'Selecciona si tienes un código de descuento o puntos de recompensa que desees utilizar o estimar del coste del envio.';
+$_['text_use_coupon']        = 'Cupón de descuento';
+$_['text_use_voucher']       = 'Vale de regalo';
+$_['text_use_reward']        = 'Puntos de recompensa (Disponibles: %s)';
+$_['text_shipping_estimate'] = 'Tasas de envio estimadas';
+$_['text_shipping_detail']   = 'Introduce el destino para obtener un estimado del costo del envio.';
+$_['text_shipping_method']   = 'Selecciona el método de envio para este pedido.';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Product Name';
-$_['column_model']           = 'Model';
-$_['column_quantity']        = 'Quantity';
-$_['column_price']           = 'Unit Price';
-$_['column_total']           = 'Total';
+$_['column_remove']   = 'Quitar';
+$_['column_image']    = 'Imagen';
+$_['column_name']     = 'Nombre producto';
+$_['column_model']    = 'Modelo';
+$_['column_quantity'] = 'Cantidad';
+$_['column_price']    = 'Precio unitario';
+$_['column_total']    = 'Total';
 
 // Entry
-$_['entry_coupon']           = 'Enter your coupon here:';
-$_['entry_voucher']          = 'Enter your gift voucher code here:';
-$_['entry_reward']           = 'Points to use (Max %s):';
-$_['entry_country']          = 'Country:';
-$_['entry_zone']             = 'Region / State:';
-$_['entry_postcode']         = 'Post Code:';
+$_['entry_coupon']           = 'Introduce tu cupón aquí:';
+$_['entry_voucher']          = 'Introduce el código del vale de regalo aquí:';
+$_['entry_reward']           = 'Puntos a usar (Max %s):';
+$_['entry_country']          = 'País:';
+$_['entry_zone']             = 'Provincia:';
+$_['entry_postcode']         = 'Código postal:';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';	
-$_['error_required']         = '%s required!';	
-$_['error_product']          = 'Warning: There are no products in your cart!';	
-$_['error_coupon']           = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']          = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']           = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']           = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']          = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_postcode']         = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']          = 'Please select a country!';
-$_['error_zone']             = 'Please select a region / state!';
-$_['error_shipping']         = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_stock']     = 'Los productos marcados con *** no están disponibles en la cantidad deseada o están fuera de stock!';
+$_['error_minimum']   = 'La cantidad mínima de pedido para %s es %s!';	
+$_['error_required']  = '%s obligatorio!';	
+$_['error_product']          = 'Atención: No hay productos en tu carrito de compra!';	
+$_['error_coupon']           = 'Atención: El cupón puede ser no válido, está expirado o alcanzó su límite!';
+$_['error_voucher']          = 'Atención: El vale de regalo no es válido o ya se usó el total!';
+$_['error_reward']           = 'Atención: Introduce la cantidad de puntos de regalo a usar!';	
+$_['error_points']           = 'Atención: No tiene %s puntos de recompensa!';
+$_['error_maximum']          = 'Atención: El máximo de puntos que puedes usar son %s!';
+$_['error_postcode']         = 'El código postal debe tener entre 2 y 10 carácteres!';
+$_['error_country']          = 'Selecciona un país!';
+$_['error_zone']             = 'Selecciona una región o provincia!';
+$_['error_shipping']         = 'Atención: Se necesita un método de envio!';
+$_['error_no_shipping']      = 'Atención: No hay opciones disponibles de envio. Por favor <a href="%s">contáctanos</a> para ayudarte!';
 ?>

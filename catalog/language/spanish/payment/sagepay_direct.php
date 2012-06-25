@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_title']           = 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']     = 'Credit Card Details';
-$_['text_start_date']      = '(if available)';
-$_['text_issue']           = '(for Maestro and Solo cards only)';
-$_['text_wait']            = 'Please wait!';
+$_['text_title']           = 'Tarjeta de crédito / Tarjeta de débito (SagePay)';
+$_['text_credit_card']     = 'Detalles tarjeta de crédito ';
+$_['text_start_date']      = '(si está disponible)';
+$_['text_issue']           = '(solo para tarjetas Maestro y Solo)';
+$_['text_wait']            = 'Por favor espera!';
 
 // Entry
-$_['entry_cc_owner']       = 'Card Owner:';
-$_['entry_cc_type']        = 'Card Type:';
-$_['entry_cc_number']      = 'Card Number:';
-$_['entry_cc_start_date']  = 'Card Valid From Date:';
-$_['entry_cc_expire_date'] = 'Card Expiry Date:';
-$_['entry_cc_cvv2']        = 'Card Security Code (CVV2):';
-$_['entry_cc_issue']       = 'Card Issue Number:';
+$_['entry_cc_owner']       = 'Nombre tarjeta:';
+$_['entry_cc_type']        = 'Tipo tarjeta:';
+$_['entry_cc_number']      = 'Número Tarjeta:';
+$_['entry_cc_start_date']  = 'Tarjeta válida desde:';
+$_['entry_cc_expire_date'] = 'Fecha caducidad tarjeta:';
+$_['entry_cc_cvv2']        = 'Código seguridad tarjeta (CVV2):';
+$_['entry_cc_issue']       = 'Número emisión tarjeta:';
 ?>

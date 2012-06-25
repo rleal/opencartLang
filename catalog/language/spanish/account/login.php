@@ -4,7 +4,7 @@ $_['heading_title']                = 'Acceso a Mi Cuenta';
 
 // Text
 $_['text_account']                 = 'Cuenta';
-$_['text_login']                   = 'Entrar';
+$_['text_login']                   = 'Inicio sesión';
 $_['text_new_customer']            = 'Nuevo cliente';
 $_['text_register']                = 'Registrar cuenta';
 $_['text_register_account']        = 'Crea una cuenta y podrás comprar más rápido, hacer seguimiento de tus pedidos y consultar tus anteriores compras.';

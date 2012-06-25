@@ -1,17 +1,17 @@
 <?php
 // Heading 
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = '¿Olvidaste tu contraseña?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you';
-$_['text_success']    = 'Success: A new password has been sent to your e-mail address.';
+$_['text_account']    = 'Cuenta';
+$_['text_forgotten']  = 'Contraseña olvidada';
+$_['text_your_email'] = 'Tu dirección de e-mail';
+$_['text_email']      = 'Introduce la dirección de email asociada con tu cuenta. Haz clic para enviar la contraseña a tu correo.';
+$_['text_success']    = 'Éxito: Una nueva contraseña ha sido enviada a tu correo.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address:';
+$_['entry_email']     = 'Dirección e-mail:';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
+$_['error_email']     = 'Error: La dirección de e-mail no fue encontrada en nuestros registros, por favor inténtalo de nuevo!';
 ?>

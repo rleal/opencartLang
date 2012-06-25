@@ -1,8 +1,8 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Choose a Store';
+$_['heading_title'] = 'Selecciona una tienda';
 
 // Text
-$_['text_default']  = 'Default';
-$_['text_store']    = 'Please choose the store you wish to visit.';
+$_['text_default']  = 'Por defecto';
+$_['text_store']    = 'Por favor selecciona la tienda que desées visitar.';
 ?>

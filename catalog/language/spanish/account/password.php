@@ -5,7 +5,7 @@ $_['heading_title']  = 'Cambia tu contraseña';
 // Text
 $_['text_account']   = 'Cuenta';
 $_['text_password']  = 'Tu contraseña';
-$_['text_success']   = 'Ok: Tu contraseña se ha modificado correctamente.';
+$_['text_success']   = 'Tu contraseña se ha modificado correctamente.';
 
 // Entry
 $_['entry_password'] = 'Contraseña:';
