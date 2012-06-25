@@ -19,8 +19,8 @@ $_['entry_value']      = 'Valor:<br /><span class="help">Poner a 1.00000 si es t
 // Error
 $_['error_permission'] = 'Atención: No tienes permiso para modificar las medidas de longitud';
 
-$_['error_title']      = 'El nombre de la medida de longitud debe tener entre 3 y 32 carácteres';
-$_['error_unit']       = 'La unidad de la medida de longitud debe tener entre 1 y 4 carácteres';
+$_['error_title']      = 'El nombre de la medida de longitud debe tener entre 3 y 32 caracteres';
+$_['error_unit']       = 'La unidad de la medida de longitud debe tener entre 1 y 4 caracteres';
 $_['error_default']    = 'Atención: Esta medida de longitud no puede ser borrada porque está asignada por defecto a la tienda';
 $_['error_product']    = 'Atención: Esta medida de longitud no puede ser borrada porque está asignada a %s productos';
 ?>

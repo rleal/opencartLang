@@ -23,13 +23,13 @@ $_['entry_sort_order']  = 'Orden:';
 
 // Error
 $_['error_permission']  = 'Atención: No tienes permisos para modificar idiomas';
-$_['error_name']        = 'El nombre de idioma debe tener entre 3 y 32 carácteres';
+$_['error_name']        = 'El nombre de idioma debe tener entre 3 y 32 caracteres';
 
-$_['error_code']        = 'El código de idioma debe tener al menos 2 carácteres';
+$_['error_code']        = 'El código de idioma debe tener al menos 2 caracteres';
 $_['error_locale']      = 'Locale es obligatoria';
-$_['error_image']       = 'El nombre de fichero debe tener entre 3 y 64 carácteres';
+$_['error_image']       = 'El nombre de fichero debe tener entre 3 y 64 caracteres';
 $_['error_directory']   = 'Directorio es obligatorio';
-$_['error_filename']    = 'El nombre de fichero debe tener entre 3 y 64 carácteres';
+$_['error_filename']    = 'El nombre de fichero debe tener entre 3 y 64 caracteres';
 $_['error_default']     = 'Atención: Este idioma no puede ser borrado porque está asignado como idioma por defecto de la tienda';
 $_['error_admin']       = 'Atención: Este idioma no puede ser borrado porque está asignado como el idioma de la administration';
 $_['error_store']       = 'Atención: Este idioma no puede ser borrado porque está asignado a %s tiendas';

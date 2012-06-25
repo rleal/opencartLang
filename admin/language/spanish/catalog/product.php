@@ -73,6 +73,6 @@ $_['entry_layout']           = 'Sobreescribir plantilla:';
 // Error
 $_['error_warning']          = 'Atención: revisa los errores del formulario';
 $_['error_permission']       = 'Atención: No tienes permisos para modificar productos';
-$_['error_name']             = 'El nombre de producto debe tener entre 3 y 255 carácteres';
-$_['error_model']            = 'El modelo de producto debe tener entre 3 y 64 carácteres';
+$_['error_name']             = 'El nombre de producto debe tener entre 3 y 255 caracteres';
+$_['error_model']            = 'El modelo de producto debe tener entre 3 y 64 caracteres';
 ?>

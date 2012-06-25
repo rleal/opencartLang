@@ -14,6 +14,6 @@ $_['entry_name']       = 'Nombre de estado de stock:';
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar los estados de stock';
-$_['error_name']       = 'El nombre de estado de stock debe tener entre 3 y 32 carácteres';
+$_['error_name']       = 'El nombre de estado de stock debe tener entre 3 y 32 caracteres';
 $_['error_product']    = 'Atención: El estado de stock no puede borrrarse porque está asignado a %s productos';
 ?>

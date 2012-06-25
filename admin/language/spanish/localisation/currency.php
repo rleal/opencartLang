@@ -23,8 +23,8 @@ $_['entry_status']         = 'Estado:';
 
 // Error
 $_['error_permission']     = 'Atención: No tienes permisos para modificar las monedas';
-$_['error_title']          = 'El título de moneda debe tener entre 3 y 32 carácteres';
-$_['error_code']           = 'El código de moneda debe tener 3 carácteres';
+$_['error_title']          = 'El título de moneda debe tener entre 3 y 32 caracteres';
+$_['error_code']           = 'El código de moneda debe tener 3 caracteres';
 $_['error_default']        = 'Atención: Esta moneda no puede ser borrada porque esta asignada como la moneda por defecto de la tienda';
 $_['error_store']          = 'Atención: Esta moneda no puede ser borrada porque está asignada a %s tiendas';
 $_['error_order']          = 'Atención: Esta moneda no puede ser borrada porque está asignada a %s pedidos';

@@ -16,7 +16,7 @@ $_['entry_sort_order']  = 'Orden:';
 
 // Error
 $_['error_permission']  = 'Atención: No tienes permisos para modificar el grupo de atributos';
-$_['error_name']        = 'El nombre del grupo de atributos debe tener entre 3 y 64 carácteres';
+$_['error_name']        = 'El nombre del grupo de atributos debe tener entre 3 y 64 caracteres';
 $_['error_attribute']   = 'Atención: El grupo del atributos no puede ser borrado porque actualmente está asignado a %s atributos';
 $_['error_product']     = 'Atención: Este grupo de atributos no puede ser borrado porque actualmente está asignado a %s productos';
 ?>

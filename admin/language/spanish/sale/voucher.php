@@ -34,9 +34,9 @@ $_['entry_status']      = 'Estado:';
 
 // Error
 $_['error_permission']  = 'Atención: No tienes permisos para modificar vales!';
-$_['error_code']        = 'El código debe tener entre 3 y 10 carácteres!';
-$_['error_to_name']     = 'El nombre del destinatario debe tener entre 1 y 64 carácteres!';
-$_['error_from_name']   = 'Tu nombre debe tener entre 1 y 64 carácteres!';
+$_['error_code']        = 'El código debe tener entre 3 y 10 caracteres!';
+$_['error_to_name']     = 'El nombre del destinatario debe tener entre 1 y 64 caracteres!';
+$_['error_from_name']   = 'Tu nombre debe tener entre 1 y 64 caracteres!';
 $_['error_email']       = 'La dirección de e-mail no parece ser válida!';
 $_['error_amount']      = 'La cantidad debe ser igual o mayor de 1!';
 ?>

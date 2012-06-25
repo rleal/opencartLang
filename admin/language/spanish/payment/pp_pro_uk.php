@@ -12,7 +12,7 @@ $_['text_sale']          = 'Venta';
 // Entry
 $_['entry_vendor']       = 'Vendedor:<br /><span class="help">La Merchant ID que creaste cuando te registraste en Website Payments Pro account.</span>';
 $_['entry_user']         = 'Usuario:<br /><span class="help">Si creaste uno o más usuarios adicionales en la cuenta, este valor es el ID del usuario autorizado para procesar transacciones. Si por contra no has configurado usuarios adicionales en la cuenta, el usuario tiene que ser el mismo que el vendedor.</span>';
-$_['entry_password']     = 'Contraseña:<br /><span class="help">La contraseña de 6 a 32 carácteres que definiste cuando te registraste.</span>';
+$_['entry_password']     = 'Contraseña:<br /><span class="help">La contraseña de 6 a 32 caracteres que definiste cuando te registraste.</span>';
 $_['entry_partner']      = 'Partner:<br /><span class="help">El ID que se te proporcionó por el Reseller autorizado de paypal que te registró para el SDK payflow. Si compraste tu cuenta directamente en paypal, usa PayPalUK.</span>';
 $_['entry_test']         = 'Modo test:<br /><span class="help">Usar el servidor real o de pruebas para procesar las transacciones (sandbox)?</span>';
 $_['entry_transaction']  = 'Método transacción:';

@@ -31,7 +31,7 @@ $_['entry_status']            = 'Estado:';
 
 // Error
 $_['error_permission']        = 'Atención: No tienes permisos para modificar países';
-$_['error_name']              = 'El nombre de país debe tener entre 3 y 128 carácteres';
+$_['error_name']              = 'El nombre de país debe tener entre 3 y 128 caracteres';
 $_['error_default']           = 'Atención: Este país no puede ser borrado porque está asignado como país a la tienda por defecto';
 $_['error_store']             = 'Atención: Este país no puede ser borrado porque está asignado a %s tiendas';
 $_['error_address']           = 'Atención: Este país no puede ser borrado porque está asignado a %s entradas de la libreta de direcciones';

@@ -23,8 +23,8 @@ $_['entry_status']       = 'Estado:';
 
 // Error
 $_['error_permission']   = 'Atención: No tienes permiso para modificar los banners';
-$_['error_name']         = 'Nombre de banner debe tener entre 3 y 64 carácteres';
-$_['error_title']        = 'El título de banner debe tener entre 2 y 64 carácteres';
+$_['error_name']         = 'Nombre de banner debe tener entre 3 y 64 caracteres';
+$_['error_title']        = 'El título de banner debe tener entre 2 y 64 caracteres';
 $_['error_default']      = 'Atención: Este diseño no puede ser eliminado porque actualmente es el diseño por defecto de la tienda';
 $_['error_product']      = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s productos';
 $_['error_category']     = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s categorías';

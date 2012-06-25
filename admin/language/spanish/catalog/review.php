@@ -25,7 +25,7 @@ $_['entry_bad']         = 'Malo';
 // Error
 $_['error_permission']  = 'Atención: No tienes permisos para modificar comentarios';
 $_['error_product']     = 'Producto es obligatorio';
-$_['error_author']      = 'Autor debe tener entre 3 y 64 carácteres';
+$_['error_author']      = 'Autor debe tener entre 3 y 64 caracteres';
 $_['error_text']        = 'El texto del comentario debe tener al menos 1 carácter';
 $_['error_rating']      = 'Rating de comentario es obligatorio';
 ?>

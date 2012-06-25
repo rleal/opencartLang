@@ -26,6 +26,6 @@ $_['entry_type']         = 'Tipo:';
 
 // Error
 $_['error_permission']   = 'Atención: No tienes permisos para modificar los fabricantes';
-$_['error_name']         = 'El nombre de fabricante debe tener entre 3 y 64 carácteres';
+$_['error_name']         = 'El nombre de fabricante debe tener entre 3 y 64 caracteres';
 $_['error_product']      = 'Atención: Este fabricante no puede ser eliminado por que está asignado a %s productos';
 ?>

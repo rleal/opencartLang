@@ -15,6 +15,6 @@ $_['entry_confirm']   = 'Repetir contraseña:';
 
 // Error
 $_['error_email']     = 'Atención: No existe esa dirección de correo';
-$_['error_password']  = 'La contraseña debe tener entre 3 y 20 carácteres';
+$_['error_password']  = 'La contraseña debe tener entre 3 y 20 caracteres';
 $_['error_confirm']   = 'No has repetido la contraseña correctamente';
 ?>

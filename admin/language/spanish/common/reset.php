@@ -12,6 +12,6 @@ $_['entry_password'] = 'Contraseña:';
 $_['entry_confirm']  = 'Repetir contraseña:';
 
 // Error
-$_['error_password'] = 'La contraseña debe tener entre 5 y 20 carácteres';
+$_['error_password'] = 'La contraseña debe tener entre 5 y 20 caracteres';
 $_['error_confirm']  = 'No has repetido la contraseña correctamente';
 ?>

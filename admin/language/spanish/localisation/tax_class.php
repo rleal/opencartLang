@@ -22,7 +22,7 @@ $_['entry_priority']    = 'Prioridad:';
 
 // Error
 $_['error_permission']  = 'Atención: no tienes permisos para modificar el tipo de tasas';
-$_['error_title']       = 'El nombre de tipos de tasa debe tener entre 3 y 32 carácteres';
-$_['error_description'] = 'La descripción debe tener entre 3 y 255 carácteres';
+$_['error_title']       = 'El nombre de tipos de tasa debe tener entre 3 y 32 caracteres';
+$_['error_description'] = 'La descripción debe tener entre 3 y 255 caracteres';
 $_['error_product']     = 'Atención: Este tipo de tasa no puede borrarse porque está aplicada a %s productos';
 ?>

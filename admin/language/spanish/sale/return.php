@@ -60,15 +60,15 @@ $_['entry_action']        = 'Acción devolución:';
 // Error
 $_['error_warning']       = 'Atención: comprueba que el formulario no contenga errores!';
 $_['error_permission']    = 'Atención: No tienes permisos para modificar returns!';
-$_['error_firstname']     = 'El nombre debe tener entre 1 y 32 carácteres!';
-$_['error_lastname']      = 'Los apellidos debe tener entre 1 y 32 carácteres!';
+$_['error_firstname']     = 'El nombre debe tener entre 1 y 32 caracteres!';
+$_['error_lastname']      = 'Los apellidos debe tener entre 1 y 32 caracteres!';
 $_['error_email']         = 'La dirección de e-mail no parece ser válida!';
-$_['error_telephone']     = 'El teléfono debe tener entre 3 y 32 carácteres!';
-$_['error_password']      = 'La contraseña debe tener entre 3 y 20 carácteres!';
+$_['error_telephone']     = 'El teléfono debe tener entre 3 y 32 caracteres!';
+$_['error_password']      = 'La contraseña debe tener entre 3 y 20 caracteres!';
 $_['error_confirm']       = 'La contraseña y la confirmación de contraseña no coinciden!';
-$_['error_address_1']     = 'La dirección 1 debe tener entre 3 y 128 carácteres!';
-$_['error_city']          = 'La ciudad debe tener entre 3 y 128 carácteres!';
-$_['error_postcode']      = 'El código postal debe tener entre 2 y 10 carácteres!';
+$_['error_address_1']     = 'La dirección 1 debe tener entre 3 y 128 caracteres!';
+$_['error_city']          = 'La ciudad debe tener entre 3 y 128 caracteres!';
+$_['error_postcode']      = 'El código postal debe tener entre 2 y 10 caracteres!';
 $_['error_country']       = 'Por favor selecciona un país!';
 $_['error_zone']          = 'Por favor selecciona una región / estado!';
 ?>

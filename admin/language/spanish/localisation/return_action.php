@@ -14,6 +14,6 @@ $_['entry_name']       = 'Nombre de acción de devolución:';
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar las acciones devolución';
-$_['error_name']       = 'El nombre de acción de devolución debe tener entre 3 y 32 carácteres';
+$_['error_name']       = 'El nombre de acción de devolución debe tener entre 3 y 32 caracteres';
 $_['error_return']     = 'Atención: La acción de devolución no puede borrarse porque está asignada a %s productos devueltos';
 ?>

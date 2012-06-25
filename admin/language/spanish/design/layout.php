@@ -17,7 +17,7 @@ $_['entry_route']       = 'Route:';
 
 // Error
 $_['error_permission']  = 'Atención: No tienes permiso para modificar los banners';
-$_['error_name']        = 'Nombre de banner debe tener entre 3 y 64 carácteres';
+$_['error_name']        = 'Nombre de banner debe tener entre 3 y 64 caracteres';
 $_['error_default']     = 'Atención: Este diseño no puede ser eliminado porque actualmente es el diseño por defecto de la tienda';
 $_['error_store']       = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s tiendas';
 $_['error_product']     = 'Atención: Este diseño no puede ser eliminado porque actualmente está asignado a %s productos';

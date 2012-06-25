@@ -32,5 +32,5 @@ $_['entry_layout']           = 'Sobreescribir diseño:';
 // Error 
 $_['error_warning']          = 'Atención: revisa los errores del formulario';
 $_['error_permission']       = 'Atención: No tienes permisos para modificar categorías';
-$_['error_name']             = 'El nombre de categoría debe tener entre 2 y 32 carácteres';
+$_['error_name']             = 'El nombre de categoría debe tener entre 2 y 32 caracteres';
 ?>

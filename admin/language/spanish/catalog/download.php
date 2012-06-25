@@ -20,11 +20,11 @@ $_['entry_update']     = 'Enviar a antiguos compradores:<br /><span class="help"
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar las descargas';
-$_['error_name']       = 'El nombre debe tener entre 3 y 64 carácteres';
+$_['error_name']       = 'El nombre debe tener entre 3 y 64 caracteres';
 $_['error_upload']     = 'Error en la subida';
-$_['error_filename']   = 'El nombre de fichero debe tener entre 3 y 128 carácteres';
+$_['error_filename']   = 'El nombre de fichero debe tener entre 3 y 128 caracteres';
 $_['error_exists']     = 'El fichero no existe';
-$_['error_mask']       = 'La máscara debe tener entre 3 y 128 carácteres';
+$_['error_mask']       = 'La máscara debe tener entre 3 y 128 caracteres';
 $_['error_filetype']   = 'Tipo de fichero inválido';
 $_['error_product']    = 'Atención: Esta descarga no puede ser borrada mientras esté asignada a %s productos';
 ?>

@@ -22,7 +22,7 @@ $_['entry_sort_order']          = 'Orden:';
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar grupo de clientes!';
-$_['error_name']       = 'El nombre de grupo clientes debe tener entre 3 y 64 carácteres!';
+$_['error_name']       = 'El nombre de grupo clientes debe tener entre 3 y 64 caracteres!';
 $_['error_default']    = 'Atención: Este grupo de clientes no se puede borrar ya que esta asignado como el grupo de clientes por defecto de la tienda!';
 $_['error_store']      = 'Atención: Este grupo de clientes no se puede borrar ya que está asignado a %s tiendas!';
 $_['error_customer']   = 'Atención: Este grupo de clientes no se puede borrar ya que está asignado a %s clientes!';

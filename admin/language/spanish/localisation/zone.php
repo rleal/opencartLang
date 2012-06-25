@@ -19,7 +19,7 @@ $_['entry_country']          = 'País:';
 
 // Error
 $_['error_permission']       = 'Atención: No tienes permisos para modificar las zonas';
-$_['error_name']             = 'El nombre de la zona debe tener entre 3 y 128 carácteres';
+$_['error_name']             = 'El nombre de la zona debe tener entre 3 y 128 caracteres';
 $_['error_default']          = 'Atención: La zona no puede ser borrada porque es la zona por defecto de la tienda';
 $_['error_store']            = 'Atención: La zona no puede ser borrada porque está asignada a %s tiendas';
 $_['error_address']          = 'Atención: La zona no puede ser borrada porque está asignada a %s entradas de la libreta de direcciones';

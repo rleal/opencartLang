@@ -40,6 +40,6 @@ $_['entry_status']        = 'Estado:';
 // Error
 $_['error_permission']    = 'Atención: No tienes permisos para modificar cupones!';
 $_['error_exists']        = 'Atención: El código del cupón ya se ha gastado';
-$_['error_name']          = 'Nombre de cupón debe tener entre 3 y 128 carácteres';
-$_['error_code']          = 'Código debe tener entre 3 y 10 carácteres';
+$_['error_name']          = 'Nombre de cupón debe tener entre 3 y 128 caracteres';
+$_['error_code']          = 'Código debe tener entre 3 y 10 caracteres';
 ?>

@@ -15,5 +15,5 @@ $_['entry_ip']         = 'IP:';
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar la lista negra de IP de cliente';
-$_['error_ip']         = 'La IP debe tener entre 1 y 15 carácteres';
+$_['error_ip']         = 'La IP debe tener entre 1 y 15 caracteres';
 ?>

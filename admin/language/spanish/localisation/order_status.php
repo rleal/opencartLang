@@ -14,7 +14,7 @@ $_['entry_name']       = 'Nombre de estado de pedido:';
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar el estado del pedido';
-$_['error_name']       = 'El nombre de estado de pedido debe tener entre 3 y 32 carácteres';
+$_['error_name']       = 'El nombre de estado de pedido debe tener entre 3 y 32 caracteres';
 $_['error_default']    = 'Atención: Este estado de pedido no puede ser borrado poque es el estado por defecto de la tienda';
 $_['error_download']   = 'Atención: Este estado de pedido no puede ser borrado poque es el estado por defecto para las descargas';
 $_['error_store']      = 'Atención: Este estado de pedido no puede ser borrado poque está asignado a %s tiendas';

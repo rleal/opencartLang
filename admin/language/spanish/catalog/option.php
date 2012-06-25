@@ -34,8 +34,8 @@ $_['entry_sort_order']   = 'Orden:';
 
 // Error
 $_['error_permission']   = 'Atención: No tienes permisos para modificar las opciones';
-$_['error_name']         = 'El nombre de opción debe tener entre 1 y 128 carácteres';
+$_['error_name']         = 'El nombre de opción debe tener entre 1 y 128 caracteres';
 $_['error_type']         = 'Atención: Es necesario un valor de opción';
-$_['error_option_value'] = 'El valor de opción debe tener entre 1 y 128 carácteres';
+$_['error_option_value'] = 'El valor de opción debe tener entre 1 y 128 caracteres';
 $_['error_product']      = 'Atención: Esta opción no puede borrarse porque actualmente está asignada a %s productos';
 ?>

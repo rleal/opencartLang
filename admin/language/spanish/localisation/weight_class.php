@@ -18,8 +18,8 @@ $_['entry_value']      = 'Valor:<br /><span class="help">Poner 1.00000 si este e
 
 // Error
 $_['error_permission'] = 'Atención: No tienes permisos para modificar las clases de peso';
-$_['error_title']      = 'El título de peso debe tener entre 3 y 32 carácteres';
-$_['error_unit']       = 'La unidad de peso debe tener entre 1 y 4 carácteres';
+$_['error_title']      = 'El título de peso debe tener entre 3 y 32 caracteres';
+$_['error_unit']       = 'La unidad de peso debe tener entre 1 y 4 caracteres';
 $_['error_default']    = 'Atención: La clase de peso no puede borrarse porque es el la clase de peso por defecto de la tienda';
 $_['error_product']    = 'Atención: La clase de peso no puede borrarse porque está asignada a %s productos';
 ?>
