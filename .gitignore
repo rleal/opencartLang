@@ -2,3 +2,11 @@
 admin/.DS_Store
 
 catalog/.DS_Store
+
+.buildpath
+
+.project
+
+.settings/org.eclipse.core.resources.prefs
+
+.settings/org.eclipse.php.core.prefs

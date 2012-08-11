@@ -71,7 +71,7 @@ $_['button_reset']            = 'Reinicar';
 // Tab
 $_['tab_address']             = 'Dirección';
 $_['tab_admin']               = 'Admin';
-$_['tab_attribute']           = 'Attributo';
+$_['tab_attribute']           = 'Atributo';
 $_['tab_coupon_history']      = 'Historial Cupón';
 $_['tab_customer']            = 'Detalles Cliente';
 $_['tab_data']                = 'Datos';
@@ -81,7 +81,7 @@ $_['tab_general']             = 'General';
 $_['tab_fraud']               = 'Fraude';
 $_['tab_ip']                  = 'Dirección IP';
 $_['tab_links']               = 'Enlaces';
-$_['tab_image']               = 'Imágen';
+$_['tab_image']               = 'Imagen';
 $_['tab_option']              = 'Opción';
 $_['tab_server']              = 'Servidor';
 $_['tab_store']               = 'Tienda';
